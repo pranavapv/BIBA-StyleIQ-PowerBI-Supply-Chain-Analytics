@@ -1,0 +1,731 @@
+date,year,month_no,month_name,year_month,quarter,fiscal_year,week_of_year,weekday_no,weekday,is_weekend,season,festival,is_sale_period,is_wedding_season
+2022-01-01,2022,1,Jan,2022-01,Q1,FY22,52,6,Sat,Yes,Winter,"",Yes,No
+2022-01-02,2022,1,Jan,2022-01,Q1,FY22,52,7,Sun,Yes,Winter,"",Yes,No
+2022-01-03,2022,1,Jan,2022-01,Q1,FY22,1,1,Mon,No,Winter,"",Yes,No
+2022-01-04,2022,1,Jan,2022-01,Q1,FY22,1,2,Tue,No,Winter,"",Yes,No
+2022-01-05,2022,1,Jan,2022-01,Q1,FY22,1,3,Wed,No,Winter,"",Yes,No
+2022-01-06,2022,1,Jan,2022-01,Q1,FY22,1,4,Thu,No,Winter,"",Yes,No
+2022-01-07,2022,1,Jan,2022-01,Q1,FY22,1,5,Fri,No,Winter,"",Yes,No
+2022-01-08,2022,1,Jan,2022-01,Q1,FY22,1,6,Sat,Yes,Winter,"",Yes,No
+2022-01-09,2022,1,Jan,2022-01,Q1,FY22,1,7,Sun,Yes,Winter,Pongal / Sankranti,Yes,No
+2022-01-10,2022,1,Jan,2022-01,Q1,FY22,2,1,Mon,No,Winter,Pongal / Sankranti,Yes,No
+2022-01-11,2022,1,Jan,2022-01,Q1,FY22,2,2,Tue,No,Winter,Pongal / Sankranti,Yes,No
+2022-01-12,2022,1,Jan,2022-01,Q1,FY22,2,3,Wed,No,Winter,Pongal / Sankranti,Yes,No
+2022-01-13,2022,1,Jan,2022-01,Q1,FY22,2,4,Thu,No,Winter,Pongal / Sankranti,Yes,No
+2022-01-14,2022,1,Jan,2022-01,Q1,FY22,2,5,Fri,No,Winter,Pongal / Sankranti,Yes,No
+2022-01-15,2022,1,Jan,2022-01,Q1,FY22,2,6,Sat,Yes,Winter,"",Yes,Yes
+2022-01-16,2022,1,Jan,2022-01,Q1,FY22,2,7,Sun,Yes,Winter,"",Yes,Yes
+2022-01-17,2022,1,Jan,2022-01,Q1,FY22,3,1,Mon,No,Winter,"",Yes,Yes
+2022-01-18,2022,1,Jan,2022-01,Q1,FY22,3,2,Tue,No,Winter,"",Yes,Yes
+2022-01-19,2022,1,Jan,2022-01,Q1,FY22,3,3,Wed,No,Winter,"",Yes,Yes
+2022-01-20,2022,1,Jan,2022-01,Q1,FY22,3,4,Thu,No,Winter,"",Yes,Yes
+2022-01-21,2022,1,Jan,2022-01,Q1,FY22,3,5,Fri,No,Winter,"",Yes,Yes
+2022-01-22,2022,1,Jan,2022-01,Q1,FY22,3,6,Sat,Yes,Winter,"",Yes,Yes
+2022-01-23,2022,1,Jan,2022-01,Q1,FY22,3,7,Sun,Yes,Winter,"",Yes,Yes
+2022-01-24,2022,1,Jan,2022-01,Q1,FY22,4,1,Mon,No,Winter,"",Yes,Yes
+2022-01-25,2022,1,Jan,2022-01,Q1,FY22,4,2,Tue,No,Winter,"",Yes,Yes
+2022-01-26,2022,1,Jan,2022-01,Q1,FY22,4,3,Wed,No,Winter,"",No,Yes
+2022-01-27,2022,1,Jan,2022-01,Q1,FY22,4,4,Thu,No,Winter,"",No,Yes
+2022-01-28,2022,1,Jan,2022-01,Q1,FY22,4,5,Fri,No,Winter,"",No,Yes
+2022-01-29,2022,1,Jan,2022-01,Q1,FY22,4,6,Sat,Yes,Winter,"",No,Yes
+2022-01-30,2022,1,Jan,2022-01,Q1,FY22,4,7,Sun,Yes,Winter,"",No,Yes
+2022-01-31,2022,1,Jan,2022-01,Q1,FY22,5,1,Mon,No,Winter,"",No,Yes
+2022-02-01,2022,2,Feb,2022-02,Q1,FY22,5,2,Tue,No,Winter,"",No,Yes
+2022-02-02,2022,2,Feb,2022-02,Q1,FY22,5,3,Wed,No,Winter,"",No,Yes
+2022-02-03,2022,2,Feb,2022-02,Q1,FY22,5,4,Thu,No,Winter,"",No,Yes
+2022-02-04,2022,2,Feb,2022-02,Q1,FY22,5,5,Fri,No,Winter,"",No,Yes
+2022-02-05,2022,2,Feb,2022-02,Q1,FY22,5,6,Sat,Yes,Winter,"",No,Yes
+2022-02-06,2022,2,Feb,2022-02,Q1,FY22,5,7,Sun,Yes,Winter,"",No,Yes
+2022-02-07,2022,2,Feb,2022-02,Q1,FY22,6,1,Mon,No,Winter,"",No,Yes
+2022-02-08,2022,2,Feb,2022-02,Q1,FY22,6,2,Tue,No,Winter,"",No,Yes
+2022-02-09,2022,2,Feb,2022-02,Q1,FY22,6,3,Wed,No,Winter,"",No,Yes
+2022-02-10,2022,2,Feb,2022-02,Q1,FY22,6,4,Thu,No,Winter,"",No,Yes
+2022-02-11,2022,2,Feb,2022-02,Q1,FY22,6,5,Fri,No,Winter,"",No,Yes
+2022-02-12,2022,2,Feb,2022-02,Q1,FY22,6,6,Sat,Yes,Winter,"",No,Yes
+2022-02-13,2022,2,Feb,2022-02,Q1,FY22,6,7,Sun,Yes,Winter,"",No,Yes
+2022-02-14,2022,2,Feb,2022-02,Q1,FY22,7,1,Mon,No,Winter,"",No,Yes
+2022-02-15,2022,2,Feb,2022-02,Q1,FY22,7,2,Tue,No,Winter,"",No,Yes
+2022-02-16,2022,2,Feb,2022-02,Q1,FY22,7,3,Wed,No,Winter,"",No,Yes
+2022-02-17,2022,2,Feb,2022-02,Q1,FY22,7,4,Thu,No,Winter,"",No,Yes
+2022-02-18,2022,2,Feb,2022-02,Q1,FY22,7,5,Fri,No,Winter,"",No,Yes
+2022-02-19,2022,2,Feb,2022-02,Q1,FY22,7,6,Sat,Yes,Winter,"",No,Yes
+2022-02-20,2022,2,Feb,2022-02,Q1,FY22,7,7,Sun,Yes,Winter,"",No,Yes
+2022-02-21,2022,2,Feb,2022-02,Q1,FY22,8,1,Mon,No,Winter,"",No,Yes
+2022-02-22,2022,2,Feb,2022-02,Q1,FY22,8,2,Tue,No,Winter,"",No,Yes
+2022-02-23,2022,2,Feb,2022-02,Q1,FY22,8,3,Wed,No,Winter,"",No,Yes
+2022-02-24,2022,2,Feb,2022-02,Q1,FY22,8,4,Thu,No,Winter,"",No,Yes
+2022-02-25,2022,2,Feb,2022-02,Q1,FY22,8,5,Fri,No,Winter,"",No,Yes
+2022-02-26,2022,2,Feb,2022-02,Q1,FY22,8,6,Sat,Yes,Winter,"",No,Yes
+2022-02-27,2022,2,Feb,2022-02,Q1,FY22,8,7,Sun,Yes,Winter,"",No,Yes
+2022-02-28,2022,2,Feb,2022-02,Q1,FY22,9,1,Mon,No,Winter,"",No,Yes
+2022-03-01,2022,3,Mar,2022-03,Q1,FY22,9,2,Tue,No,Summer,"",No,No
+2022-03-02,2022,3,Mar,2022-03,Q1,FY22,9,3,Wed,No,Summer,"",No,No
+2022-03-03,2022,3,Mar,2022-03,Q1,FY22,9,4,Thu,No,Summer,"",No,No
+2022-03-04,2022,3,Mar,2022-03,Q1,FY22,9,5,Fri,No,Summer,"",No,No
+2022-03-05,2022,3,Mar,2022-03,Q1,FY22,9,6,Sat,Yes,Summer,"",No,No
+2022-03-06,2022,3,Mar,2022-03,Q1,FY22,9,7,Sun,Yes,Summer,"",No,No
+2022-03-07,2022,3,Mar,2022-03,Q1,FY22,10,1,Mon,No,Summer,"",No,No
+2022-03-08,2022,3,Mar,2022-03,Q1,FY22,10,2,Tue,No,Summer,"",No,No
+2022-03-09,2022,3,Mar,2022-03,Q1,FY22,10,3,Wed,No,Summer,"",No,No
+2022-03-10,2022,3,Mar,2022-03,Q1,FY22,10,4,Thu,No,Summer,"",No,No
+2022-03-11,2022,3,Mar,2022-03,Q1,FY22,10,5,Fri,No,Summer,"",No,No
+2022-03-12,2022,3,Mar,2022-03,Q1,FY22,10,6,Sat,Yes,Summer,"",No,No
+2022-03-13,2022,3,Mar,2022-03,Q1,FY22,10,7,Sun,Yes,Summer,"",No,No
+2022-03-14,2022,3,Mar,2022-03,Q1,FY22,11,1,Mon,No,Summer,"",No,No
+2022-03-15,2022,3,Mar,2022-03,Q1,FY22,11,2,Tue,No,Summer,"",No,No
+2022-03-16,2022,3,Mar,2022-03,Q1,FY22,11,3,Wed,No,Summer,"",No,No
+2022-03-17,2022,3,Mar,2022-03,Q1,FY22,11,4,Thu,No,Summer,"",No,No
+2022-03-18,2022,3,Mar,2022-03,Q1,FY22,11,5,Fri,No,Summer,"",No,No
+2022-03-19,2022,3,Mar,2022-03,Q1,FY22,11,6,Sat,Yes,Summer,"",No,No
+2022-03-20,2022,3,Mar,2022-03,Q1,FY22,11,7,Sun,Yes,Summer,"",No,No
+2022-03-21,2022,3,Mar,2022-03,Q1,FY22,12,1,Mon,No,Summer,"",No,No
+2022-03-22,2022,3,Mar,2022-03,Q1,FY22,12,2,Tue,No,Summer,"",No,No
+2022-03-23,2022,3,Mar,2022-03,Q1,FY22,12,3,Wed,No,Summer,"",No,No
+2022-03-24,2022,3,Mar,2022-03,Q1,FY22,12,4,Thu,No,Summer,"",No,No
+2022-03-25,2022,3,Mar,2022-03,Q1,FY22,12,5,Fri,No,Summer,"",No,No
+2022-03-26,2022,3,Mar,2022-03,Q1,FY22,12,6,Sat,Yes,Summer,"",No,No
+2022-03-27,2022,3,Mar,2022-03,Q1,FY22,12,7,Sun,Yes,Summer,"",No,No
+2022-03-28,2022,3,Mar,2022-03,Q1,FY22,13,1,Mon,No,Summer,"",No,No
+2022-03-29,2022,3,Mar,2022-03,Q1,FY22,13,2,Tue,No,Summer,"",No,No
+2022-03-30,2022,3,Mar,2022-03,Q1,FY22,13,3,Wed,No,Summer,"",No,No
+2022-03-31,2022,3,Mar,2022-03,Q1,FY22,13,4,Thu,No,Summer,"",No,No
+2022-04-01,2022,4,Apr,2022-04,Q2,FY23,13,5,Fri,No,Summer,"",No,No
+2022-04-02,2022,4,Apr,2022-04,Q2,FY23,13,6,Sat,Yes,Summer,"",No,No
+2022-04-03,2022,4,Apr,2022-04,Q2,FY23,13,7,Sun,Yes,Summer,"",No,No
+2022-04-04,2022,4,Apr,2022-04,Q2,FY23,14,1,Mon,No,Summer,"",No,No
+2022-04-05,2022,4,Apr,2022-04,Q2,FY23,14,2,Tue,No,Summer,"",No,No
+2022-04-06,2022,4,Apr,2022-04,Q2,FY23,14,3,Wed,No,Summer,"",No,No
+2022-04-07,2022,4,Apr,2022-04,Q2,FY23,14,4,Thu,No,Summer,"",No,No
+2022-04-08,2022,4,Apr,2022-04,Q2,FY23,14,5,Fri,No,Summer,"",No,No
+2022-04-09,2022,4,Apr,2022-04,Q2,FY23,14,6,Sat,Yes,Summer,"",No,No
+2022-04-10,2022,4,Apr,2022-04,Q2,FY23,14,7,Sun,Yes,Summer,"",No,No
+2022-04-11,2022,4,Apr,2022-04,Q2,FY23,15,1,Mon,No,Summer,"",No,No
+2022-04-12,2022,4,Apr,2022-04,Q2,FY23,15,2,Tue,No,Summer,"",No,No
+2022-04-13,2022,4,Apr,2022-04,Q2,FY23,15,3,Wed,No,Summer,"",No,No
+2022-04-14,2022,4,Apr,2022-04,Q2,FY23,15,4,Thu,No,Summer,"",No,No
+2022-04-15,2022,4,Apr,2022-04,Q2,FY23,15,5,Fri,No,Summer,"",No,Yes
+2022-04-16,2022,4,Apr,2022-04,Q2,FY23,15,6,Sat,Yes,Summer,"",No,Yes
+2022-04-17,2022,4,Apr,2022-04,Q2,FY23,15,7,Sun,Yes,Summer,"",No,Yes
+2022-04-18,2022,4,Apr,2022-04,Q2,FY23,16,1,Mon,No,Summer,"",No,Yes
+2022-04-19,2022,4,Apr,2022-04,Q2,FY23,16,2,Tue,No,Summer,"",No,Yes
+2022-04-20,2022,4,Apr,2022-04,Q2,FY23,16,3,Wed,No,Summer,"",No,Yes
+2022-04-21,2022,4,Apr,2022-04,Q2,FY23,16,4,Thu,No,Summer,"",No,Yes
+2022-04-22,2022,4,Apr,2022-04,Q2,FY23,16,5,Fri,No,Summer,"",No,Yes
+2022-04-23,2022,4,Apr,2022-04,Q2,FY23,16,6,Sat,Yes,Summer,"",No,Yes
+2022-04-24,2022,4,Apr,2022-04,Q2,FY23,16,7,Sun,Yes,Summer,"",No,Yes
+2022-04-25,2022,4,Apr,2022-04,Q2,FY23,17,1,Mon,No,Summer,"",No,Yes
+2022-04-26,2022,4,Apr,2022-04,Q2,FY23,17,2,Tue,No,Summer,Eid ul-Fitr,No,Yes
+2022-04-27,2022,4,Apr,2022-04,Q2,FY23,17,3,Wed,No,Summer,Eid ul-Fitr,No,Yes
+2022-04-28,2022,4,Apr,2022-04,Q2,FY23,17,4,Thu,No,Summer,Eid ul-Fitr,No,Yes
+2022-04-29,2022,4,Apr,2022-04,Q2,FY23,17,5,Fri,No,Summer,Eid ul-Fitr,No,Yes
+2022-04-30,2022,4,Apr,2022-04,Q2,FY23,17,6,Sat,Yes,Summer,Eid ul-Fitr,No,Yes
+2022-05-01,2022,5,May,2022-05,Q2,FY23,17,7,Sun,Yes,Summer,Eid ul-Fitr,No,Yes
+2022-05-02,2022,5,May,2022-05,Q2,FY23,18,1,Mon,No,Summer,Eid ul-Fitr,No,Yes
+2022-05-03,2022,5,May,2022-05,Q2,FY23,18,2,Tue,No,Summer,Eid ul-Fitr,No,Yes
+2022-05-04,2022,5,May,2022-05,Q2,FY23,18,3,Wed,No,Summer,"",No,Yes
+2022-05-05,2022,5,May,2022-05,Q2,FY23,18,4,Thu,No,Summer,"",No,Yes
+2022-05-06,2022,5,May,2022-05,Q2,FY23,18,5,Fri,No,Summer,"",No,Yes
+2022-05-07,2022,5,May,2022-05,Q2,FY23,18,6,Sat,Yes,Summer,"",No,Yes
+2022-05-08,2022,5,May,2022-05,Q2,FY23,18,7,Sun,Yes,Summer,"",No,Yes
+2022-05-09,2022,5,May,2022-05,Q2,FY23,19,1,Mon,No,Summer,"",No,Yes
+2022-05-10,2022,5,May,2022-05,Q2,FY23,19,2,Tue,No,Summer,"",No,Yes
+2022-05-11,2022,5,May,2022-05,Q2,FY23,19,3,Wed,No,Summer,"",No,Yes
+2022-05-12,2022,5,May,2022-05,Q2,FY23,19,4,Thu,No,Summer,"",No,Yes
+2022-05-13,2022,5,May,2022-05,Q2,FY23,19,5,Fri,No,Summer,"",No,Yes
+2022-05-14,2022,5,May,2022-05,Q2,FY23,19,6,Sat,Yes,Summer,"",No,Yes
+2022-05-15,2022,5,May,2022-05,Q2,FY23,19,7,Sun,Yes,Summer,"",No,Yes
+2022-05-16,2022,5,May,2022-05,Q2,FY23,20,1,Mon,No,Summer,"",No,Yes
+2022-05-17,2022,5,May,2022-05,Q2,FY23,20,2,Tue,No,Summer,"",No,Yes
+2022-05-18,2022,5,May,2022-05,Q2,FY23,20,3,Wed,No,Summer,"",No,Yes
+2022-05-19,2022,5,May,2022-05,Q2,FY23,20,4,Thu,No,Summer,"",No,Yes
+2022-05-20,2022,5,May,2022-05,Q2,FY23,20,5,Fri,No,Summer,"",No,Yes
+2022-05-21,2022,5,May,2022-05,Q2,FY23,20,6,Sat,Yes,Summer,"",No,Yes
+2022-05-22,2022,5,May,2022-05,Q2,FY23,20,7,Sun,Yes,Summer,"",No,Yes
+2022-05-23,2022,5,May,2022-05,Q2,FY23,21,1,Mon,No,Summer,"",No,Yes
+2022-05-24,2022,5,May,2022-05,Q2,FY23,21,2,Tue,No,Summer,"",No,Yes
+2022-05-25,2022,5,May,2022-05,Q2,FY23,21,3,Wed,No,Summer,"",No,Yes
+2022-05-26,2022,5,May,2022-05,Q2,FY23,21,4,Thu,No,Summer,"",No,Yes
+2022-05-27,2022,5,May,2022-05,Q2,FY23,21,5,Fri,No,Summer,"",No,Yes
+2022-05-28,2022,5,May,2022-05,Q2,FY23,21,6,Sat,Yes,Summer,"",No,Yes
+2022-05-29,2022,5,May,2022-05,Q2,FY23,21,7,Sun,Yes,Summer,"",No,Yes
+2022-05-30,2022,5,May,2022-05,Q2,FY23,22,1,Mon,No,Summer,"",No,Yes
+2022-05-31,2022,5,May,2022-05,Q2,FY23,22,2,Tue,No,Summer,"",No,Yes
+2022-06-01,2022,6,Jun,2022-06,Q2,FY23,22,3,Wed,No,Monsoon,"",No,No
+2022-06-02,2022,6,Jun,2022-06,Q2,FY23,22,4,Thu,No,Monsoon,"",No,No
+2022-06-03,2022,6,Jun,2022-06,Q2,FY23,22,5,Fri,No,Monsoon,"",No,No
+2022-06-04,2022,6,Jun,2022-06,Q2,FY23,22,6,Sat,Yes,Monsoon,"",No,No
+2022-06-05,2022,6,Jun,2022-06,Q2,FY23,22,7,Sun,Yes,Monsoon,"",No,No
+2022-06-06,2022,6,Jun,2022-06,Q2,FY23,23,1,Mon,No,Monsoon,"",No,No
+2022-06-07,2022,6,Jun,2022-06,Q2,FY23,23,2,Tue,No,Monsoon,"",No,No
+2022-06-08,2022,6,Jun,2022-06,Q2,FY23,23,3,Wed,No,Monsoon,"",No,No
+2022-06-09,2022,6,Jun,2022-06,Q2,FY23,23,4,Thu,No,Monsoon,"",No,No
+2022-06-10,2022,6,Jun,2022-06,Q2,FY23,23,5,Fri,No,Monsoon,"",No,No
+2022-06-11,2022,6,Jun,2022-06,Q2,FY23,23,6,Sat,Yes,Monsoon,"",No,No
+2022-06-12,2022,6,Jun,2022-06,Q2,FY23,23,7,Sun,Yes,Monsoon,"",No,No
+2022-06-13,2022,6,Jun,2022-06,Q2,FY23,24,1,Mon,No,Monsoon,"",No,No
+2022-06-14,2022,6,Jun,2022-06,Q2,FY23,24,2,Tue,No,Monsoon,"",No,No
+2022-06-15,2022,6,Jun,2022-06,Q2,FY23,24,3,Wed,No,Monsoon,"",No,No
+2022-06-16,2022,6,Jun,2022-06,Q2,FY23,24,4,Thu,No,Monsoon,"",No,No
+2022-06-17,2022,6,Jun,2022-06,Q2,FY23,24,5,Fri,No,Monsoon,"",No,No
+2022-06-18,2022,6,Jun,2022-06,Q2,FY23,24,6,Sat,Yes,Monsoon,"",No,No
+2022-06-19,2022,6,Jun,2022-06,Q2,FY23,24,7,Sun,Yes,Monsoon,"",No,No
+2022-06-20,2022,6,Jun,2022-06,Q2,FY23,25,1,Mon,No,Monsoon,"",No,No
+2022-06-21,2022,6,Jun,2022-06,Q2,FY23,25,2,Tue,No,Monsoon,"",No,No
+2022-06-22,2022,6,Jun,2022-06,Q2,FY23,25,3,Wed,No,Monsoon,"",No,No
+2022-06-23,2022,6,Jun,2022-06,Q2,FY23,25,4,Thu,No,Monsoon,"",No,No
+2022-06-24,2022,6,Jun,2022-06,Q2,FY23,25,5,Fri,No,Monsoon,"",No,No
+2022-06-25,2022,6,Jun,2022-06,Q2,FY23,25,6,Sat,Yes,Monsoon,"",No,No
+2022-06-26,2022,6,Jun,2022-06,Q2,FY23,25,7,Sun,Yes,Monsoon,"",No,No
+2022-06-27,2022,6,Jun,2022-06,Q2,FY23,26,1,Mon,No,Monsoon,"",No,No
+2022-06-28,2022,6,Jun,2022-06,Q2,FY23,26,2,Tue,No,Monsoon,"",No,No
+2022-06-29,2022,6,Jun,2022-06,Q2,FY23,26,3,Wed,No,Monsoon,"",No,No
+2022-06-30,2022,6,Jun,2022-06,Q2,FY23,26,4,Thu,No,Monsoon,"",No,No
+2022-07-01,2022,7,Jul,2022-07,Q3,FY23,26,5,Fri,No,Monsoon,"",Yes,No
+2022-07-02,2022,7,Jul,2022-07,Q3,FY23,26,6,Sat,Yes,Monsoon,"",Yes,No
+2022-07-03,2022,7,Jul,2022-07,Q3,FY23,26,7,Sun,Yes,Monsoon,"",Yes,No
+2022-07-04,2022,7,Jul,2022-07,Q3,FY23,27,1,Mon,No,Monsoon,"",Yes,No
+2022-07-05,2022,7,Jul,2022-07,Q3,FY23,27,2,Tue,No,Monsoon,"",Yes,No
+2022-07-06,2022,7,Jul,2022-07,Q3,FY23,27,3,Wed,No,Monsoon,"",Yes,No
+2022-07-07,2022,7,Jul,2022-07,Q3,FY23,27,4,Thu,No,Monsoon,"",Yes,No
+2022-07-08,2022,7,Jul,2022-07,Q3,FY23,27,5,Fri,No,Monsoon,"",Yes,No
+2022-07-09,2022,7,Jul,2022-07,Q3,FY23,27,6,Sat,Yes,Monsoon,"",Yes,No
+2022-07-10,2022,7,Jul,2022-07,Q3,FY23,27,7,Sun,Yes,Monsoon,"",Yes,No
+2022-07-11,2022,7,Jul,2022-07,Q3,FY23,28,1,Mon,No,Monsoon,"",Yes,No
+2022-07-12,2022,7,Jul,2022-07,Q3,FY23,28,2,Tue,No,Monsoon,"",Yes,No
+2022-07-13,2022,7,Jul,2022-07,Q3,FY23,28,3,Wed,No,Monsoon,"",Yes,No
+2022-07-14,2022,7,Jul,2022-07,Q3,FY23,28,4,Thu,No,Monsoon,"",Yes,No
+2022-07-15,2022,7,Jul,2022-07,Q3,FY23,28,5,Fri,No,Monsoon,"",Yes,No
+2022-07-16,2022,7,Jul,2022-07,Q3,FY23,28,6,Sat,Yes,Monsoon,"",Yes,No
+2022-07-17,2022,7,Jul,2022-07,Q3,FY23,28,7,Sun,Yes,Monsoon,"",Yes,No
+2022-07-18,2022,7,Jul,2022-07,Q3,FY23,29,1,Mon,No,Monsoon,"",Yes,No
+2022-07-19,2022,7,Jul,2022-07,Q3,FY23,29,2,Tue,No,Monsoon,"",Yes,No
+2022-07-20,2022,7,Jul,2022-07,Q3,FY23,29,3,Wed,No,Monsoon,"",Yes,No
+2022-07-21,2022,7,Jul,2022-07,Q3,FY23,29,4,Thu,No,Monsoon,"",Yes,No
+2022-07-22,2022,7,Jul,2022-07,Q3,FY23,29,5,Fri,No,Monsoon,"",Yes,No
+2022-07-23,2022,7,Jul,2022-07,Q3,FY23,29,6,Sat,Yes,Monsoon,"",Yes,No
+2022-07-24,2022,7,Jul,2022-07,Q3,FY23,29,7,Sun,Yes,Monsoon,"",Yes,No
+2022-07-25,2022,7,Jul,2022-07,Q3,FY23,30,1,Mon,No,Monsoon,"",Yes,No
+2022-07-26,2022,7,Jul,2022-07,Q3,FY23,30,2,Tue,No,Monsoon,"",No,No
+2022-07-27,2022,7,Jul,2022-07,Q3,FY23,30,3,Wed,No,Monsoon,"",No,No
+2022-07-28,2022,7,Jul,2022-07,Q3,FY23,30,4,Thu,No,Monsoon,"",No,No
+2022-07-29,2022,7,Jul,2022-07,Q3,FY23,30,5,Fri,No,Monsoon,"",No,No
+2022-07-30,2022,7,Jul,2022-07,Q3,FY23,30,6,Sat,Yes,Monsoon,"",No,No
+2022-07-31,2022,7,Jul,2022-07,Q3,FY23,30,7,Sun,Yes,Monsoon,"",No,No
+2022-08-01,2022,8,Aug,2022-08,Q3,FY23,31,1,Mon,No,Monsoon,"",No,No
+2022-08-02,2022,8,Aug,2022-08,Q3,FY23,31,2,Tue,No,Monsoon,"",No,No
+2022-08-03,2022,8,Aug,2022-08,Q3,FY23,31,3,Wed,No,Monsoon,"",No,No
+2022-08-04,2022,8,Aug,2022-08,Q3,FY23,31,4,Thu,No,Monsoon,"",No,No
+2022-08-05,2022,8,Aug,2022-08,Q3,FY23,31,5,Fri,No,Monsoon,"",No,No
+2022-08-06,2022,8,Aug,2022-08,Q3,FY23,31,6,Sat,Yes,Monsoon,Raksha Bandhan,No,No
+2022-08-07,2022,8,Aug,2022-08,Q3,FY23,31,7,Sun,Yes,Monsoon,Raksha Bandhan,No,No
+2022-08-08,2022,8,Aug,2022-08,Q3,FY23,32,1,Mon,No,Monsoon,Raksha Bandhan,No,No
+2022-08-09,2022,8,Aug,2022-08,Q3,FY23,32,2,Tue,No,Monsoon,Raksha Bandhan,No,No
+2022-08-10,2022,8,Aug,2022-08,Q3,FY23,32,3,Wed,No,Monsoon,Raksha Bandhan,No,No
+2022-08-11,2022,8,Aug,2022-08,Q3,FY23,32,4,Thu,No,Monsoon,Raksha Bandhan,No,No
+2022-08-12,2022,8,Aug,2022-08,Q3,FY23,32,5,Fri,No,Monsoon,"",No,No
+2022-08-13,2022,8,Aug,2022-08,Q3,FY23,32,6,Sat,Yes,Monsoon,"",No,No
+2022-08-14,2022,8,Aug,2022-08,Q3,FY23,32,7,Sun,Yes,Monsoon,"",No,No
+2022-08-15,2022,8,Aug,2022-08,Q3,FY23,33,1,Mon,No,Monsoon,"",No,No
+2022-08-16,2022,8,Aug,2022-08,Q3,FY23,33,2,Tue,No,Monsoon,"",No,No
+2022-08-17,2022,8,Aug,2022-08,Q3,FY23,33,3,Wed,No,Monsoon,"",No,No
+2022-08-18,2022,8,Aug,2022-08,Q3,FY23,33,4,Thu,No,Monsoon,"",No,No
+2022-08-19,2022,8,Aug,2022-08,Q3,FY23,33,5,Fri,No,Monsoon,"",No,No
+2022-08-20,2022,8,Aug,2022-08,Q3,FY23,33,6,Sat,Yes,Monsoon,"",No,No
+2022-08-21,2022,8,Aug,2022-08,Q3,FY23,33,7,Sun,Yes,Monsoon,"",No,No
+2022-08-22,2022,8,Aug,2022-08,Q3,FY23,34,1,Mon,No,Monsoon,"",No,No
+2022-08-23,2022,8,Aug,2022-08,Q3,FY23,34,2,Tue,No,Monsoon,"",No,No
+2022-08-24,2022,8,Aug,2022-08,Q3,FY23,34,3,Wed,No,Monsoon,"",No,No
+2022-08-25,2022,8,Aug,2022-08,Q3,FY23,34,4,Thu,No,Monsoon,"",No,No
+2022-08-26,2022,8,Aug,2022-08,Q3,FY23,34,5,Fri,No,Monsoon,"",No,No
+2022-08-27,2022,8,Aug,2022-08,Q3,FY23,34,6,Sat,Yes,Monsoon,"",No,No
+2022-08-28,2022,8,Aug,2022-08,Q3,FY23,34,7,Sun,Yes,Monsoon,"",No,No
+2022-08-29,2022,8,Aug,2022-08,Q3,FY23,35,1,Mon,No,Monsoon,"",No,No
+2022-08-30,2022,8,Aug,2022-08,Q3,FY23,35,2,Tue,No,Monsoon,"",No,No
+2022-08-31,2022,8,Aug,2022-08,Q3,FY23,35,3,Wed,No,Monsoon,"",No,No
+2022-09-01,2022,9,Sep,2022-09,Q3,FY23,35,4,Thu,No,Monsoon,Onam,No,No
+2022-09-02,2022,9,Sep,2022-09,Q3,FY23,35,5,Fri,No,Monsoon,Onam,No,No
+2022-09-03,2022,9,Sep,2022-09,Q3,FY23,35,6,Sat,Yes,Monsoon,Onam,No,No
+2022-09-04,2022,9,Sep,2022-09,Q3,FY23,35,7,Sun,Yes,Monsoon,Onam,No,No
+2022-09-05,2022,9,Sep,2022-09,Q3,FY23,36,1,Mon,No,Monsoon,Onam,No,No
+2022-09-06,2022,9,Sep,2022-09,Q3,FY23,36,2,Tue,No,Monsoon,Onam,No,No
+2022-09-07,2022,9,Sep,2022-09,Q3,FY23,36,3,Wed,No,Monsoon,Onam,No,No
+2022-09-08,2022,9,Sep,2022-09,Q3,FY23,36,4,Thu,No,Monsoon,Onam,No,No
+2022-09-09,2022,9,Sep,2022-09,Q3,FY23,36,5,Fri,No,Monsoon,"",No,No
+2022-09-10,2022,9,Sep,2022-09,Q3,FY23,36,6,Sat,Yes,Monsoon,"",No,No
+2022-09-11,2022,9,Sep,2022-09,Q3,FY23,36,7,Sun,Yes,Monsoon,"",No,No
+2022-09-12,2022,9,Sep,2022-09,Q3,FY23,37,1,Mon,No,Monsoon,"",No,No
+2022-09-13,2022,9,Sep,2022-09,Q3,FY23,37,2,Tue,No,Monsoon,"",No,No
+2022-09-14,2022,9,Sep,2022-09,Q3,FY23,37,3,Wed,No,Monsoon,"",No,No
+2022-09-15,2022,9,Sep,2022-09,Q3,FY23,37,4,Thu,No,Monsoon,"",No,No
+2022-09-16,2022,9,Sep,2022-09,Q3,FY23,37,5,Fri,No,Monsoon,"",No,No
+2022-09-17,2022,9,Sep,2022-09,Q3,FY23,37,6,Sat,Yes,Monsoon,"",No,No
+2022-09-18,2022,9,Sep,2022-09,Q3,FY23,37,7,Sun,Yes,Monsoon,Navratri,No,No
+2022-09-19,2022,9,Sep,2022-09,Q3,FY23,38,1,Mon,No,Monsoon,Navratri,No,No
+2022-09-20,2022,9,Sep,2022-09,Q3,FY23,38,2,Tue,No,Monsoon,Durga Puja,No,No
+2022-09-21,2022,9,Sep,2022-09,Q3,FY23,38,3,Wed,No,Monsoon,Durga Puja,No,No
+2022-09-22,2022,9,Sep,2022-09,Q3,FY23,38,4,Thu,No,Monsoon,Durga Puja,No,No
+2022-09-23,2022,9,Sep,2022-09,Q3,FY23,38,5,Fri,No,Monsoon,Durga Puja,No,No
+2022-09-24,2022,9,Sep,2022-09,Q3,FY23,38,6,Sat,Yes,Monsoon,Durga Puja,No,No
+2022-09-25,2022,9,Sep,2022-09,Q3,FY23,38,7,Sun,Yes,Monsoon,Durga Puja,No,No
+2022-09-26,2022,9,Sep,2022-09,Q3,FY23,39,1,Mon,No,Monsoon,Durga Puja,No,No
+2022-09-27,2022,9,Sep,2022-09,Q3,FY23,39,2,Tue,No,Monsoon,Durga Puja,No,No
+2022-09-28,2022,9,Sep,2022-09,Q3,FY23,39,3,Wed,No,Monsoon,Durga Puja,No,No
+2022-09-29,2022,9,Sep,2022-09,Q3,FY23,39,4,Thu,No,Monsoon,Durga Puja,No,No
+2022-09-30,2022,9,Sep,2022-09,Q3,FY23,39,5,Fri,No,Monsoon,Durga Puja,No,No
+2022-10-01,2022,10,Oct,2022-10,Q4,FY23,39,6,Sat,Yes,Festive (Oct-Nov),Durga Puja,No,No
+2022-10-02,2022,10,Oct,2022-10,Q4,FY23,39,7,Sun,Yes,Festive (Oct-Nov),"",No,No
+2022-10-03,2022,10,Oct,2022-10,Q4,FY23,40,1,Mon,No,Festive (Oct-Nov),"",No,No
+2022-10-04,2022,10,Oct,2022-10,Q4,FY23,40,2,Tue,No,Festive (Oct-Nov),"",No,No
+2022-10-05,2022,10,Oct,2022-10,Q4,FY23,40,3,Wed,No,Festive (Oct-Nov),"",No,No
+2022-10-06,2022,10,Oct,2022-10,Q4,FY23,40,4,Thu,No,Festive (Oct-Nov),"",No,No
+2022-10-07,2022,10,Oct,2022-10,Q4,FY23,40,5,Fri,No,Festive (Oct-Nov),"",No,No
+2022-10-08,2022,10,Oct,2022-10,Q4,FY23,40,6,Sat,Yes,Festive (Oct-Nov),"",No,No
+2022-10-09,2022,10,Oct,2022-10,Q4,FY23,40,7,Sun,Yes,Festive (Oct-Nov),Diwali,No,No
+2022-10-10,2022,10,Oct,2022-10,Q4,FY23,41,1,Mon,No,Festive (Oct-Nov),Diwali,No,No
+2022-10-11,2022,10,Oct,2022-10,Q4,FY23,41,2,Tue,No,Festive (Oct-Nov),Diwali,No,No
+2022-10-12,2022,10,Oct,2022-10,Q4,FY23,41,3,Wed,No,Festive (Oct-Nov),Diwali,No,No
+2022-10-13,2022,10,Oct,2022-10,Q4,FY23,41,4,Thu,No,Festive (Oct-Nov),Diwali,No,No
+2022-10-14,2022,10,Oct,2022-10,Q4,FY23,41,5,Fri,No,Festive (Oct-Nov),Diwali,No,No
+2022-10-15,2022,10,Oct,2022-10,Q4,FY23,41,6,Sat,Yes,Festive (Oct-Nov),Diwali,No,No
+2022-10-16,2022,10,Oct,2022-10,Q4,FY23,41,7,Sun,Yes,Festive (Oct-Nov),Diwali,No,No
+2022-10-17,2022,10,Oct,2022-10,Q4,FY23,42,1,Mon,No,Festive (Oct-Nov),Diwali,No,No
+2022-10-18,2022,10,Oct,2022-10,Q4,FY23,42,2,Tue,No,Festive (Oct-Nov),Diwali,No,No
+2022-10-19,2022,10,Oct,2022-10,Q4,FY23,42,3,Wed,No,Festive (Oct-Nov),Diwali,No,No
+2022-10-20,2022,10,Oct,2022-10,Q4,FY23,42,4,Thu,No,Festive (Oct-Nov),Diwali,No,No
+2022-10-21,2022,10,Oct,2022-10,Q4,FY23,42,5,Fri,No,Festive (Oct-Nov),Diwali,No,No
+2022-10-22,2022,10,Oct,2022-10,Q4,FY23,42,6,Sat,Yes,Festive (Oct-Nov),Diwali,No,No
+2022-10-23,2022,10,Oct,2022-10,Q4,FY23,42,7,Sun,Yes,Festive (Oct-Nov),Diwali,No,No
+2022-10-24,2022,10,Oct,2022-10,Q4,FY23,43,1,Mon,No,Festive (Oct-Nov),Diwali,No,No
+2022-10-25,2022,10,Oct,2022-10,Q4,FY23,43,2,Tue,No,Festive (Oct-Nov),"",No,No
+2022-10-26,2022,10,Oct,2022-10,Q4,FY23,43,3,Wed,No,Festive (Oct-Nov),"",No,No
+2022-10-27,2022,10,Oct,2022-10,Q4,FY23,43,4,Thu,No,Festive (Oct-Nov),"",No,No
+2022-10-28,2022,10,Oct,2022-10,Q4,FY23,43,5,Fri,No,Festive (Oct-Nov),"",No,No
+2022-10-29,2022,10,Oct,2022-10,Q4,FY23,43,6,Sat,Yes,Festive (Oct-Nov),"",No,No
+2022-10-30,2022,10,Oct,2022-10,Q4,FY23,43,7,Sun,Yes,Festive (Oct-Nov),"",No,No
+2022-10-31,2022,10,Oct,2022-10,Q4,FY23,44,1,Mon,No,Festive (Oct-Nov),"",No,No
+2022-11-01,2022,11,Nov,2022-11,Q4,FY23,44,2,Tue,No,Festive (Oct-Nov),"",No,No
+2022-11-02,2022,11,Nov,2022-11,Q4,FY23,44,3,Wed,No,Festive (Oct-Nov),"",No,No
+2022-11-03,2022,11,Nov,2022-11,Q4,FY23,44,4,Thu,No,Festive (Oct-Nov),"",No,No
+2022-11-04,2022,11,Nov,2022-11,Q4,FY23,44,5,Fri,No,Festive (Oct-Nov),"",No,No
+2022-11-05,2022,11,Nov,2022-11,Q4,FY23,44,6,Sat,Yes,Festive (Oct-Nov),"",No,No
+2022-11-06,2022,11,Nov,2022-11,Q4,FY23,44,7,Sun,Yes,Festive (Oct-Nov),"",No,No
+2022-11-07,2022,11,Nov,2022-11,Q4,FY23,45,1,Mon,No,Festive (Oct-Nov),"",No,No
+2022-11-08,2022,11,Nov,2022-11,Q4,FY23,45,2,Tue,No,Festive (Oct-Nov),"",No,No
+2022-11-09,2022,11,Nov,2022-11,Q4,FY23,45,3,Wed,No,Festive (Oct-Nov),"",No,No
+2022-11-10,2022,11,Nov,2022-11,Q4,FY23,45,4,Thu,No,Festive (Oct-Nov),"",No,No
+2022-11-11,2022,11,Nov,2022-11,Q4,FY23,45,5,Fri,No,Festive (Oct-Nov),"",No,No
+2022-11-12,2022,11,Nov,2022-11,Q4,FY23,45,6,Sat,Yes,Festive (Oct-Nov),"",No,No
+2022-11-13,2022,11,Nov,2022-11,Q4,FY23,45,7,Sun,Yes,Festive (Oct-Nov),"",No,No
+2022-11-14,2022,11,Nov,2022-11,Q4,FY23,46,1,Mon,No,Festive (Oct-Nov),"",No,No
+2022-11-15,2022,11,Nov,2022-11,Q4,FY23,46,2,Tue,No,Festive (Oct-Nov),"",No,Yes
+2022-11-16,2022,11,Nov,2022-11,Q4,FY23,46,3,Wed,No,Festive (Oct-Nov),"",No,Yes
+2022-11-17,2022,11,Nov,2022-11,Q4,FY23,46,4,Thu,No,Festive (Oct-Nov),"",No,Yes
+2022-11-18,2022,11,Nov,2022-11,Q4,FY23,46,5,Fri,No,Festive (Oct-Nov),"",No,Yes
+2022-11-19,2022,11,Nov,2022-11,Q4,FY23,46,6,Sat,Yes,Festive (Oct-Nov),"",No,Yes
+2022-11-20,2022,11,Nov,2022-11,Q4,FY23,46,7,Sun,Yes,Festive (Oct-Nov),"",No,Yes
+2022-11-21,2022,11,Nov,2022-11,Q4,FY23,47,1,Mon,No,Festive (Oct-Nov),"",No,Yes
+2022-11-22,2022,11,Nov,2022-11,Q4,FY23,47,2,Tue,No,Festive (Oct-Nov),"",No,Yes
+2022-11-23,2022,11,Nov,2022-11,Q4,FY23,47,3,Wed,No,Festive (Oct-Nov),"",No,Yes
+2022-11-24,2022,11,Nov,2022-11,Q4,FY23,47,4,Thu,No,Festive (Oct-Nov),"",No,Yes
+2022-11-25,2022,11,Nov,2022-11,Q4,FY23,47,5,Fri,No,Festive (Oct-Nov),"",No,Yes
+2022-11-26,2022,11,Nov,2022-11,Q4,FY23,47,6,Sat,Yes,Festive (Oct-Nov),"",No,Yes
+2022-11-27,2022,11,Nov,2022-11,Q4,FY23,47,7,Sun,Yes,Festive (Oct-Nov),"",No,Yes
+2022-11-28,2022,11,Nov,2022-11,Q4,FY23,48,1,Mon,No,Festive (Oct-Nov),"",No,Yes
+2022-11-29,2022,11,Nov,2022-11,Q4,FY23,48,2,Tue,No,Festive (Oct-Nov),"",No,Yes
+2022-11-30,2022,11,Nov,2022-11,Q4,FY23,48,3,Wed,No,Festive (Oct-Nov),"",No,Yes
+2022-12-01,2022,12,Dec,2022-12,Q4,FY23,48,4,Thu,No,Winter,"",No,Yes
+2022-12-02,2022,12,Dec,2022-12,Q4,FY23,48,5,Fri,No,Winter,"",No,Yes
+2022-12-03,2022,12,Dec,2022-12,Q4,FY23,48,6,Sat,Yes,Winter,"",No,Yes
+2022-12-04,2022,12,Dec,2022-12,Q4,FY23,48,7,Sun,Yes,Winter,"",No,Yes
+2022-12-05,2022,12,Dec,2022-12,Q4,FY23,49,1,Mon,No,Winter,"",No,Yes
+2022-12-06,2022,12,Dec,2022-12,Q4,FY23,49,2,Tue,No,Winter,"",No,Yes
+2022-12-07,2022,12,Dec,2022-12,Q4,FY23,49,3,Wed,No,Winter,"",No,Yes
+2022-12-08,2022,12,Dec,2022-12,Q4,FY23,49,4,Thu,No,Winter,"",No,Yes
+2022-12-09,2022,12,Dec,2022-12,Q4,FY23,49,5,Fri,No,Winter,"",No,Yes
+2022-12-10,2022,12,Dec,2022-12,Q4,FY23,49,6,Sat,Yes,Winter,"",No,Yes
+2022-12-11,2022,12,Dec,2022-12,Q4,FY23,49,7,Sun,Yes,Winter,"",No,Yes
+2022-12-12,2022,12,Dec,2022-12,Q4,FY23,50,1,Mon,No,Winter,"",No,Yes
+2022-12-13,2022,12,Dec,2022-12,Q4,FY23,50,2,Tue,No,Winter,"",No,Yes
+2022-12-14,2022,12,Dec,2022-12,Q4,FY23,50,3,Wed,No,Winter,"",No,Yes
+2022-12-15,2022,12,Dec,2022-12,Q4,FY23,50,4,Thu,No,Winter,"",No,Yes
+2022-12-16,2022,12,Dec,2022-12,Q4,FY23,50,5,Fri,No,Winter,"",No,No
+2022-12-17,2022,12,Dec,2022-12,Q4,FY23,50,6,Sat,Yes,Winter,"",No,No
+2022-12-18,2022,12,Dec,2022-12,Q4,FY23,50,7,Sun,Yes,Winter,"",No,No
+2022-12-19,2022,12,Dec,2022-12,Q4,FY23,51,1,Mon,No,Winter,"",No,No
+2022-12-20,2022,12,Dec,2022-12,Q4,FY23,51,2,Tue,No,Winter,"",No,No
+2022-12-21,2022,12,Dec,2022-12,Q4,FY23,51,3,Wed,No,Winter,"",No,No
+2022-12-22,2022,12,Dec,2022-12,Q4,FY23,51,4,Thu,No,Winter,"",No,No
+2022-12-23,2022,12,Dec,2022-12,Q4,FY23,51,5,Fri,No,Winter,"",No,No
+2022-12-24,2022,12,Dec,2022-12,Q4,FY23,51,6,Sat,Yes,Winter,"",No,No
+2022-12-25,2022,12,Dec,2022-12,Q4,FY23,51,7,Sun,Yes,Winter,"",No,No
+2022-12-26,2022,12,Dec,2022-12,Q4,FY23,52,1,Mon,No,Winter,"",No,No
+2022-12-27,2022,12,Dec,2022-12,Q4,FY23,52,2,Tue,No,Winter,"",No,No
+2022-12-28,2022,12,Dec,2022-12,Q4,FY23,52,3,Wed,No,Winter,"",No,No
+2022-12-29,2022,12,Dec,2022-12,Q4,FY23,52,4,Thu,No,Winter,"",No,No
+2022-12-30,2022,12,Dec,2022-12,Q4,FY23,52,5,Fri,No,Winter,"",No,No
+2022-12-31,2022,12,Dec,2022-12,Q4,FY23,52,6,Sat,Yes,Winter,"",No,No
+2023-01-01,2023,1,Jan,2023-01,Q1,FY23,52,7,Sun,Yes,Winter,"",Yes,No
+2023-01-02,2023,1,Jan,2023-01,Q1,FY23,1,1,Mon,No,Winter,"",Yes,No
+2023-01-03,2023,1,Jan,2023-01,Q1,FY23,1,2,Tue,No,Winter,"",Yes,No
+2023-01-04,2023,1,Jan,2023-01,Q1,FY23,1,3,Wed,No,Winter,"",Yes,No
+2023-01-05,2023,1,Jan,2023-01,Q1,FY23,1,4,Thu,No,Winter,"",Yes,No
+2023-01-06,2023,1,Jan,2023-01,Q1,FY23,1,5,Fri,No,Winter,"",Yes,No
+2023-01-07,2023,1,Jan,2023-01,Q1,FY23,1,6,Sat,Yes,Winter,"",Yes,No
+2023-01-08,2023,1,Jan,2023-01,Q1,FY23,1,7,Sun,Yes,Winter,"",Yes,No
+2023-01-09,2023,1,Jan,2023-01,Q1,FY23,2,1,Mon,No,Winter,"",Yes,No
+2023-01-10,2023,1,Jan,2023-01,Q1,FY23,2,2,Tue,No,Winter,Pongal / Sankranti,Yes,No
+2023-01-11,2023,1,Jan,2023-01,Q1,FY23,2,3,Wed,No,Winter,Pongal / Sankranti,Yes,No
+2023-01-12,2023,1,Jan,2023-01,Q1,FY23,2,4,Thu,No,Winter,Pongal / Sankranti,Yes,No
+2023-01-13,2023,1,Jan,2023-01,Q1,FY23,2,5,Fri,No,Winter,Pongal / Sankranti,Yes,No
+2023-01-14,2023,1,Jan,2023-01,Q1,FY23,2,6,Sat,Yes,Winter,Pongal / Sankranti,Yes,No
+2023-01-15,2023,1,Jan,2023-01,Q1,FY23,2,7,Sun,Yes,Winter,Pongal / Sankranti,Yes,Yes
+2023-01-16,2023,1,Jan,2023-01,Q1,FY23,3,1,Mon,No,Winter,"",Yes,Yes
+2023-01-17,2023,1,Jan,2023-01,Q1,FY23,3,2,Tue,No,Winter,"",Yes,Yes
+2023-01-18,2023,1,Jan,2023-01,Q1,FY23,3,3,Wed,No,Winter,"",Yes,Yes
+2023-01-19,2023,1,Jan,2023-01,Q1,FY23,3,4,Thu,No,Winter,"",Yes,Yes
+2023-01-20,2023,1,Jan,2023-01,Q1,FY23,3,5,Fri,No,Winter,"",Yes,Yes
+2023-01-21,2023,1,Jan,2023-01,Q1,FY23,3,6,Sat,Yes,Winter,"",Yes,Yes
+2023-01-22,2023,1,Jan,2023-01,Q1,FY23,3,7,Sun,Yes,Winter,"",Yes,Yes
+2023-01-23,2023,1,Jan,2023-01,Q1,FY23,4,1,Mon,No,Winter,"",Yes,Yes
+2023-01-24,2023,1,Jan,2023-01,Q1,FY23,4,2,Tue,No,Winter,"",Yes,Yes
+2023-01-25,2023,1,Jan,2023-01,Q1,FY23,4,3,Wed,No,Winter,"",Yes,Yes
+2023-01-26,2023,1,Jan,2023-01,Q1,FY23,4,4,Thu,No,Winter,"",No,Yes
+2023-01-27,2023,1,Jan,2023-01,Q1,FY23,4,5,Fri,No,Winter,"",No,Yes
+2023-01-28,2023,1,Jan,2023-01,Q1,FY23,4,6,Sat,Yes,Winter,"",No,Yes
+2023-01-29,2023,1,Jan,2023-01,Q1,FY23,4,7,Sun,Yes,Winter,"",No,Yes
+2023-01-30,2023,1,Jan,2023-01,Q1,FY23,5,1,Mon,No,Winter,"",No,Yes
+2023-01-31,2023,1,Jan,2023-01,Q1,FY23,5,2,Tue,No,Winter,"",No,Yes
+2023-02-01,2023,2,Feb,2023-02,Q1,FY23,5,3,Wed,No,Winter,"",No,Yes
+2023-02-02,2023,2,Feb,2023-02,Q1,FY23,5,4,Thu,No,Winter,"",No,Yes
+2023-02-03,2023,2,Feb,2023-02,Q1,FY23,5,5,Fri,No,Winter,"",No,Yes
+2023-02-04,2023,2,Feb,2023-02,Q1,FY23,5,6,Sat,Yes,Winter,"",No,Yes
+2023-02-05,2023,2,Feb,2023-02,Q1,FY23,5,7,Sun,Yes,Winter,"",No,Yes
+2023-02-06,2023,2,Feb,2023-02,Q1,FY23,6,1,Mon,No,Winter,"",No,Yes
+2023-02-07,2023,2,Feb,2023-02,Q1,FY23,6,2,Tue,No,Winter,"",No,Yes
+2023-02-08,2023,2,Feb,2023-02,Q1,FY23,6,3,Wed,No,Winter,"",No,Yes
+2023-02-09,2023,2,Feb,2023-02,Q1,FY23,6,4,Thu,No,Winter,"",No,Yes
+2023-02-10,2023,2,Feb,2023-02,Q1,FY23,6,5,Fri,No,Winter,"",No,Yes
+2023-02-11,2023,2,Feb,2023-02,Q1,FY23,6,6,Sat,Yes,Winter,"",No,Yes
+2023-02-12,2023,2,Feb,2023-02,Q1,FY23,6,7,Sun,Yes,Winter,"",No,Yes
+2023-02-13,2023,2,Feb,2023-02,Q1,FY23,7,1,Mon,No,Winter,"",No,Yes
+2023-02-14,2023,2,Feb,2023-02,Q1,FY23,7,2,Tue,No,Winter,"",No,Yes
+2023-02-15,2023,2,Feb,2023-02,Q1,FY23,7,3,Wed,No,Winter,"",No,Yes
+2023-02-16,2023,2,Feb,2023-02,Q1,FY23,7,4,Thu,No,Winter,"",No,Yes
+2023-02-17,2023,2,Feb,2023-02,Q1,FY23,7,5,Fri,No,Winter,"",No,Yes
+2023-02-18,2023,2,Feb,2023-02,Q1,FY23,7,6,Sat,Yes,Winter,"",No,Yes
+2023-02-19,2023,2,Feb,2023-02,Q1,FY23,7,7,Sun,Yes,Winter,"",No,Yes
+2023-02-20,2023,2,Feb,2023-02,Q1,FY23,8,1,Mon,No,Winter,"",No,Yes
+2023-02-21,2023,2,Feb,2023-02,Q1,FY23,8,2,Tue,No,Winter,"",No,Yes
+2023-02-22,2023,2,Feb,2023-02,Q1,FY23,8,3,Wed,No,Winter,"",No,Yes
+2023-02-23,2023,2,Feb,2023-02,Q1,FY23,8,4,Thu,No,Winter,"",No,Yes
+2023-02-24,2023,2,Feb,2023-02,Q1,FY23,8,5,Fri,No,Winter,"",No,Yes
+2023-02-25,2023,2,Feb,2023-02,Q1,FY23,8,6,Sat,Yes,Winter,"",No,Yes
+2023-02-26,2023,2,Feb,2023-02,Q1,FY23,8,7,Sun,Yes,Winter,"",No,Yes
+2023-02-27,2023,2,Feb,2023-02,Q1,FY23,9,1,Mon,No,Winter,"",No,Yes
+2023-02-28,2023,2,Feb,2023-02,Q1,FY23,9,2,Tue,No,Winter,"",No,Yes
+2023-03-01,2023,3,Mar,2023-03,Q1,FY23,9,3,Wed,No,Summer,"",No,No
+2023-03-02,2023,3,Mar,2023-03,Q1,FY23,9,4,Thu,No,Summer,"",No,No
+2023-03-03,2023,3,Mar,2023-03,Q1,FY23,9,5,Fri,No,Summer,"",No,No
+2023-03-04,2023,3,Mar,2023-03,Q1,FY23,9,6,Sat,Yes,Summer,"",No,No
+2023-03-05,2023,3,Mar,2023-03,Q1,FY23,9,7,Sun,Yes,Summer,"",No,No
+2023-03-06,2023,3,Mar,2023-03,Q1,FY23,10,1,Mon,No,Summer,"",No,No
+2023-03-07,2023,3,Mar,2023-03,Q1,FY23,10,2,Tue,No,Summer,"",No,No
+2023-03-08,2023,3,Mar,2023-03,Q1,FY23,10,3,Wed,No,Summer,"",No,No
+2023-03-09,2023,3,Mar,2023-03,Q1,FY23,10,4,Thu,No,Summer,"",No,No
+2023-03-10,2023,3,Mar,2023-03,Q1,FY23,10,5,Fri,No,Summer,"",No,No
+2023-03-11,2023,3,Mar,2023-03,Q1,FY23,10,6,Sat,Yes,Summer,"",No,No
+2023-03-12,2023,3,Mar,2023-03,Q1,FY23,10,7,Sun,Yes,Summer,"",No,No
+2023-03-13,2023,3,Mar,2023-03,Q1,FY23,11,1,Mon,No,Summer,"",No,No
+2023-03-14,2023,3,Mar,2023-03,Q1,FY23,11,2,Tue,No,Summer,"",No,No
+2023-03-15,2023,3,Mar,2023-03,Q1,FY23,11,3,Wed,No,Summer,"",No,No
+2023-03-16,2023,3,Mar,2023-03,Q1,FY23,11,4,Thu,No,Summer,"",No,No
+2023-03-17,2023,3,Mar,2023-03,Q1,FY23,11,5,Fri,No,Summer,"",No,No
+2023-03-18,2023,3,Mar,2023-03,Q1,FY23,11,6,Sat,Yes,Summer,"",No,No
+2023-03-19,2023,3,Mar,2023-03,Q1,FY23,11,7,Sun,Yes,Summer,"",No,No
+2023-03-20,2023,3,Mar,2023-03,Q1,FY23,12,1,Mon,No,Summer,"",No,No
+2023-03-21,2023,3,Mar,2023-03,Q1,FY23,12,2,Tue,No,Summer,"",No,No
+2023-03-22,2023,3,Mar,2023-03,Q1,FY23,12,3,Wed,No,Summer,"",No,No
+2023-03-23,2023,3,Mar,2023-03,Q1,FY23,12,4,Thu,No,Summer,"",No,No
+2023-03-24,2023,3,Mar,2023-03,Q1,FY23,12,5,Fri,No,Summer,"",No,No
+2023-03-25,2023,3,Mar,2023-03,Q1,FY23,12,6,Sat,Yes,Summer,"",No,No
+2023-03-26,2023,3,Mar,2023-03,Q1,FY23,12,7,Sun,Yes,Summer,"",No,No
+2023-03-27,2023,3,Mar,2023-03,Q1,FY23,13,1,Mon,No,Summer,"",No,No
+2023-03-28,2023,3,Mar,2023-03,Q1,FY23,13,2,Tue,No,Summer,"",No,No
+2023-03-29,2023,3,Mar,2023-03,Q1,FY23,13,3,Wed,No,Summer,"",No,No
+2023-03-30,2023,3,Mar,2023-03,Q1,FY23,13,4,Thu,No,Summer,"",No,No
+2023-03-31,2023,3,Mar,2023-03,Q1,FY23,13,5,Fri,No,Summer,"",No,No
+2023-04-01,2023,4,Apr,2023-04,Q2,FY24,13,6,Sat,Yes,Summer,"",No,No
+2023-04-02,2023,4,Apr,2023-04,Q2,FY24,13,7,Sun,Yes,Summer,"",No,No
+2023-04-03,2023,4,Apr,2023-04,Q2,FY24,14,1,Mon,No,Summer,"",No,No
+2023-04-04,2023,4,Apr,2023-04,Q2,FY24,14,2,Tue,No,Summer,"",No,No
+2023-04-05,2023,4,Apr,2023-04,Q2,FY24,14,3,Wed,No,Summer,"",No,No
+2023-04-06,2023,4,Apr,2023-04,Q2,FY24,14,4,Thu,No,Summer,"",No,No
+2023-04-07,2023,4,Apr,2023-04,Q2,FY24,14,5,Fri,No,Summer,"",No,No
+2023-04-08,2023,4,Apr,2023-04,Q2,FY24,14,6,Sat,Yes,Summer,"",No,No
+2023-04-09,2023,4,Apr,2023-04,Q2,FY24,14,7,Sun,Yes,Summer,"",No,No
+2023-04-10,2023,4,Apr,2023-04,Q2,FY24,15,1,Mon,No,Summer,"",No,No
+2023-04-11,2023,4,Apr,2023-04,Q2,FY24,15,2,Tue,No,Summer,"",No,No
+2023-04-12,2023,4,Apr,2023-04,Q2,FY24,15,3,Wed,No,Summer,"",No,No
+2023-04-13,2023,4,Apr,2023-04,Q2,FY24,15,4,Thu,No,Summer,"",No,No
+2023-04-14,2023,4,Apr,2023-04,Q2,FY24,15,5,Fri,No,Summer,"",No,No
+2023-04-15,2023,4,Apr,2023-04,Q2,FY24,15,6,Sat,Yes,Summer,Eid ul-Fitr,No,Yes
+2023-04-16,2023,4,Apr,2023-04,Q2,FY24,15,7,Sun,Yes,Summer,Eid ul-Fitr,No,Yes
+2023-04-17,2023,4,Apr,2023-04,Q2,FY24,16,1,Mon,No,Summer,Eid ul-Fitr,No,Yes
+2023-04-18,2023,4,Apr,2023-04,Q2,FY24,16,2,Tue,No,Summer,Eid ul-Fitr,No,Yes
+2023-04-19,2023,4,Apr,2023-04,Q2,FY24,16,3,Wed,No,Summer,Eid ul-Fitr,No,Yes
+2023-04-20,2023,4,Apr,2023-04,Q2,FY24,16,4,Thu,No,Summer,Eid ul-Fitr,No,Yes
+2023-04-21,2023,4,Apr,2023-04,Q2,FY24,16,5,Fri,No,Summer,Eid ul-Fitr,No,Yes
+2023-04-22,2023,4,Apr,2023-04,Q2,FY24,16,6,Sat,Yes,Summer,Eid ul-Fitr,No,Yes
+2023-04-23,2023,4,Apr,2023-04,Q2,FY24,16,7,Sun,Yes,Summer,"",No,Yes
+2023-04-24,2023,4,Apr,2023-04,Q2,FY24,17,1,Mon,No,Summer,"",No,Yes
+2023-04-25,2023,4,Apr,2023-04,Q2,FY24,17,2,Tue,No,Summer,"",No,Yes
+2023-04-26,2023,4,Apr,2023-04,Q2,FY24,17,3,Wed,No,Summer,"",No,Yes
+2023-04-27,2023,4,Apr,2023-04,Q2,FY24,17,4,Thu,No,Summer,"",No,Yes
+2023-04-28,2023,4,Apr,2023-04,Q2,FY24,17,5,Fri,No,Summer,"",No,Yes
+2023-04-29,2023,4,Apr,2023-04,Q2,FY24,17,6,Sat,Yes,Summer,"",No,Yes
+2023-04-30,2023,4,Apr,2023-04,Q2,FY24,17,7,Sun,Yes,Summer,"",No,Yes
+2023-05-01,2023,5,May,2023-05,Q2,FY24,18,1,Mon,No,Summer,"",No,Yes
+2023-05-02,2023,5,May,2023-05,Q2,FY24,18,2,Tue,No,Summer,"",No,Yes
+2023-05-03,2023,5,May,2023-05,Q2,FY24,18,3,Wed,No,Summer,"",No,Yes
+2023-05-04,2023,5,May,2023-05,Q2,FY24,18,4,Thu,No,Summer,"",No,Yes
+2023-05-05,2023,5,May,2023-05,Q2,FY24,18,5,Fri,No,Summer,"",No,Yes
+2023-05-06,2023,5,May,2023-05,Q2,FY24,18,6,Sat,Yes,Summer,"",No,Yes
+2023-05-07,2023,5,May,2023-05,Q2,FY24,18,7,Sun,Yes,Summer,"",No,Yes
+2023-05-08,2023,5,May,2023-05,Q2,FY24,19,1,Mon,No,Summer,"",No,Yes
+2023-05-09,2023,5,May,2023-05,Q2,FY24,19,2,Tue,No,Summer,"",No,Yes
+2023-05-10,2023,5,May,2023-05,Q2,FY24,19,3,Wed,No,Summer,"",No,Yes
+2023-05-11,2023,5,May,2023-05,Q2,FY24,19,4,Thu,No,Summer,"",No,Yes
+2023-05-12,2023,5,May,2023-05,Q2,FY24,19,5,Fri,No,Summer,"",No,Yes
+2023-05-13,2023,5,May,2023-05,Q2,FY24,19,6,Sat,Yes,Summer,"",No,Yes
+2023-05-14,2023,5,May,2023-05,Q2,FY24,19,7,Sun,Yes,Summer,"",No,Yes
+2023-05-15,2023,5,May,2023-05,Q2,FY24,20,1,Mon,No,Summer,"",No,Yes
+2023-05-16,2023,5,May,2023-05,Q2,FY24,20,2,Tue,No,Summer,"",No,Yes
+2023-05-17,2023,5,May,2023-05,Q2,FY24,20,3,Wed,No,Summer,"",No,Yes
+2023-05-18,2023,5,May,2023-05,Q2,FY24,20,4,Thu,No,Summer,"",No,Yes
+2023-05-19,2023,5,May,2023-05,Q2,FY24,20,5,Fri,No,Summer,"",No,Yes
+2023-05-20,2023,5,May,2023-05,Q2,FY24,20,6,Sat,Yes,Summer,"",No,Yes
+2023-05-21,2023,5,May,2023-05,Q2,FY24,20,7,Sun,Yes,Summer,"",No,Yes
+2023-05-22,2023,5,May,2023-05,Q2,FY24,21,1,Mon,No,Summer,"",No,Yes
+2023-05-23,2023,5,May,2023-05,Q2,FY24,21,2,Tue,No,Summer,"",No,Yes
+2023-05-24,2023,5,May,2023-05,Q2,FY24,21,3,Wed,No,Summer,"",No,Yes
+2023-05-25,2023,5,May,2023-05,Q2,FY24,21,4,Thu,No,Summer,"",No,Yes
+2023-05-26,2023,5,May,2023-05,Q2,FY24,21,5,Fri,No,Summer,"",No,Yes
+2023-05-27,2023,5,May,2023-05,Q2,FY24,21,6,Sat,Yes,Summer,"",No,Yes
+2023-05-28,2023,5,May,2023-05,Q2,FY24,21,7,Sun,Yes,Summer,"",No,Yes
+2023-05-29,2023,5,May,2023-05,Q2,FY24,22,1,Mon,No,Summer,"",No,Yes
+2023-05-30,2023,5,May,2023-05,Q2,FY24,22,2,Tue,No,Summer,"",No,Yes
+2023-05-31,2023,5,May,2023-05,Q2,FY24,22,3,Wed,No,Summer,"",No,Yes
+2023-06-01,2023,6,Jun,2023-06,Q2,FY24,22,4,Thu,No,Monsoon,"",No,No
+2023-06-02,2023,6,Jun,2023-06,Q2,FY24,22,5,Fri,No,Monsoon,"",No,No
+2023-06-03,2023,6,Jun,2023-06,Q2,FY24,22,6,Sat,Yes,Monsoon,"",No,No
+2023-06-04,2023,6,Jun,2023-06,Q2,FY24,22,7,Sun,Yes,Monsoon,"",No,No
+2023-06-05,2023,6,Jun,2023-06,Q2,FY24,23,1,Mon,No,Monsoon,"",No,No
+2023-06-06,2023,6,Jun,2023-06,Q2,FY24,23,2,Tue,No,Monsoon,"",No,No
+2023-06-07,2023,6,Jun,2023-06,Q2,FY24,23,3,Wed,No,Monsoon,"",No,No
+2023-06-08,2023,6,Jun,2023-06,Q2,FY24,23,4,Thu,No,Monsoon,"",No,No
+2023-06-09,2023,6,Jun,2023-06,Q2,FY24,23,5,Fri,No,Monsoon,"",No,No
+2023-06-10,2023,6,Jun,2023-06,Q2,FY24,23,6,Sat,Yes,Monsoon,"",No,No
+2023-06-11,2023,6,Jun,2023-06,Q2,FY24,23,7,Sun,Yes,Monsoon,"",No,No
+2023-06-12,2023,6,Jun,2023-06,Q2,FY24,24,1,Mon,No,Monsoon,"",No,No
+2023-06-13,2023,6,Jun,2023-06,Q2,FY24,24,2,Tue,No,Monsoon,"",No,No
+2023-06-14,2023,6,Jun,2023-06,Q2,FY24,24,3,Wed,No,Monsoon,"",No,No
+2023-06-15,2023,6,Jun,2023-06,Q2,FY24,24,4,Thu,No,Monsoon,"",No,No
+2023-06-16,2023,6,Jun,2023-06,Q2,FY24,24,5,Fri,No,Monsoon,"",No,No
+2023-06-17,2023,6,Jun,2023-06,Q2,FY24,24,6,Sat,Yes,Monsoon,"",No,No
+2023-06-18,2023,6,Jun,2023-06,Q2,FY24,24,7,Sun,Yes,Monsoon,"",No,No
+2023-06-19,2023,6,Jun,2023-06,Q2,FY24,25,1,Mon,No,Monsoon,"",No,No
+2023-06-20,2023,6,Jun,2023-06,Q2,FY24,25,2,Tue,No,Monsoon,"",No,No
+2023-06-21,2023,6,Jun,2023-06,Q2,FY24,25,3,Wed,No,Monsoon,"",No,No
+2023-06-22,2023,6,Jun,2023-06,Q2,FY24,25,4,Thu,No,Monsoon,"",No,No
+2023-06-23,2023,6,Jun,2023-06,Q2,FY24,25,5,Fri,No,Monsoon,"",No,No
+2023-06-24,2023,6,Jun,2023-06,Q2,FY24,25,6,Sat,Yes,Monsoon,"",No,No
+2023-06-25,2023,6,Jun,2023-06,Q2,FY24,25,7,Sun,Yes,Monsoon,"",No,No
+2023-06-26,2023,6,Jun,2023-06,Q2,FY24,26,1,Mon,No,Monsoon,"",No,No
+2023-06-27,2023,6,Jun,2023-06,Q2,FY24,26,2,Tue,No,Monsoon,"",No,No
+2023-06-28,2023,6,Jun,2023-06,Q2,FY24,26,3,Wed,No,Monsoon,"",No,No
+2023-06-29,2023,6,Jun,2023-06,Q2,FY24,26,4,Thu,No,Monsoon,"",No,No
+2023-06-30,2023,6,Jun,2023-06,Q2,FY24,26,5,Fri,No,Monsoon,"",No,No
+2023-07-01,2023,7,Jul,2023-07,Q3,FY24,26,6,Sat,Yes,Monsoon,"",Yes,No
+2023-07-02,2023,7,Jul,2023-07,Q3,FY24,26,7,Sun,Yes,Monsoon,"",Yes,No
+2023-07-03,2023,7,Jul,2023-07,Q3,FY24,27,1,Mon,No,Monsoon,"",Yes,No
+2023-07-04,2023,7,Jul,2023-07,Q3,FY24,27,2,Tue,No,Monsoon,"",Yes,No
+2023-07-05,2023,7,Jul,2023-07,Q3,FY24,27,3,Wed,No,Monsoon,"",Yes,No
+2023-07-06,2023,7,Jul,2023-07,Q3,FY24,27,4,Thu,No,Monsoon,"",Yes,No
+2023-07-07,2023,7,Jul,2023-07,Q3,FY24,27,5,Fri,No,Monsoon,"",Yes,No
+2023-07-08,2023,7,Jul,2023-07,Q3,FY24,27,6,Sat,Yes,Monsoon,"",Yes,No
+2023-07-09,2023,7,Jul,2023-07,Q3,FY24,27,7,Sun,Yes,Monsoon,"",Yes,No
+2023-07-10,2023,7,Jul,2023-07,Q3,FY24,28,1,Mon,No,Monsoon,"",Yes,No
+2023-07-11,2023,7,Jul,2023-07,Q3,FY24,28,2,Tue,No,Monsoon,"",Yes,No
+2023-07-12,2023,7,Jul,2023-07,Q3,FY24,28,3,Wed,No,Monsoon,"",Yes,No
+2023-07-13,2023,7,Jul,2023-07,Q3,FY24,28,4,Thu,No,Monsoon,"",Yes,No
+2023-07-14,2023,7,Jul,2023-07,Q3,FY24,28,5,Fri,No,Monsoon,"",Yes,No
+2023-07-15,2023,7,Jul,2023-07,Q3,FY24,28,6,Sat,Yes,Monsoon,"",Yes,No
+2023-07-16,2023,7,Jul,2023-07,Q3,FY24,28,7,Sun,Yes,Monsoon,"",Yes,No
+2023-07-17,2023,7,Jul,2023-07,Q3,FY24,29,1,Mon,No,Monsoon,"",Yes,No
+2023-07-18,2023,7,Jul,2023-07,Q3,FY24,29,2,Tue,No,Monsoon,"",Yes,No
+2023-07-19,2023,7,Jul,2023-07,Q3,FY24,29,3,Wed,No,Monsoon,"",Yes,No
+2023-07-20,2023,7,Jul,2023-07,Q3,FY24,29,4,Thu,No,Monsoon,"",Yes,No
+2023-07-21,2023,7,Jul,2023-07,Q3,FY24,29,5,Fri,No,Monsoon,"",Yes,No
+2023-07-22,2023,7,Jul,2023-07,Q3,FY24,29,6,Sat,Yes,Monsoon,"",Yes,No
+2023-07-23,2023,7,Jul,2023-07,Q3,FY24,29,7,Sun,Yes,Monsoon,"",Yes,No
+2023-07-24,2023,7,Jul,2023-07,Q3,FY24,30,1,Mon,No,Monsoon,"",Yes,No
+2023-07-25,2023,7,Jul,2023-07,Q3,FY24,30,2,Tue,No,Monsoon,"",Yes,No
+2023-07-26,2023,7,Jul,2023-07,Q3,FY24,30,3,Wed,No,Monsoon,"",No,No
+2023-07-27,2023,7,Jul,2023-07,Q3,FY24,30,4,Thu,No,Monsoon,"",No,No
+2023-07-28,2023,7,Jul,2023-07,Q3,FY24,30,5,Fri,No,Monsoon,"",No,No
+2023-07-29,2023,7,Jul,2023-07,Q3,FY24,30,6,Sat,Yes,Monsoon,"",No,No
+2023-07-30,2023,7,Jul,2023-07,Q3,FY24,30,7,Sun,Yes,Monsoon,"",No,No
+2023-07-31,2023,7,Jul,2023-07,Q3,FY24,31,1,Mon,No,Monsoon,"",No,No
+2023-08-01,2023,8,Aug,2023-08,Q3,FY24,31,2,Tue,No,Monsoon,"",No,No
+2023-08-02,2023,8,Aug,2023-08,Q3,FY24,31,3,Wed,No,Monsoon,"",No,No
+2023-08-03,2023,8,Aug,2023-08,Q3,FY24,31,4,Thu,No,Monsoon,"",No,No
+2023-08-04,2023,8,Aug,2023-08,Q3,FY24,31,5,Fri,No,Monsoon,"",No,No
+2023-08-05,2023,8,Aug,2023-08,Q3,FY24,31,6,Sat,Yes,Monsoon,"",No,No
+2023-08-06,2023,8,Aug,2023-08,Q3,FY24,31,7,Sun,Yes,Monsoon,"",No,No
+2023-08-07,2023,8,Aug,2023-08,Q3,FY24,32,1,Mon,No,Monsoon,"",No,No
+2023-08-08,2023,8,Aug,2023-08,Q3,FY24,32,2,Tue,No,Monsoon,"",No,No
+2023-08-09,2023,8,Aug,2023-08,Q3,FY24,32,3,Wed,No,Monsoon,"",No,No
+2023-08-10,2023,8,Aug,2023-08,Q3,FY24,32,4,Thu,No,Monsoon,"",No,No
+2023-08-11,2023,8,Aug,2023-08,Q3,FY24,32,5,Fri,No,Monsoon,"",No,No
+2023-08-12,2023,8,Aug,2023-08,Q3,FY24,32,6,Sat,Yes,Monsoon,"",No,No
+2023-08-13,2023,8,Aug,2023-08,Q3,FY24,32,7,Sun,Yes,Monsoon,"",No,No
+2023-08-14,2023,8,Aug,2023-08,Q3,FY24,33,1,Mon,No,Monsoon,"",No,No
+2023-08-15,2023,8,Aug,2023-08,Q3,FY24,33,2,Tue,No,Monsoon,"",No,No
+2023-08-16,2023,8,Aug,2023-08,Q3,FY24,33,3,Wed,No,Monsoon,"",No,No
+2023-08-17,2023,8,Aug,2023-08,Q3,FY24,33,4,Thu,No,Monsoon,"",No,No
+2023-08-18,2023,8,Aug,2023-08,Q3,FY24,33,5,Fri,No,Monsoon,"",No,No
+2023-08-19,2023,8,Aug,2023-08,Q3,FY24,33,6,Sat,Yes,Monsoon,"",No,No
+2023-08-20,2023,8,Aug,2023-08,Q3,FY24,33,7,Sun,Yes,Monsoon,"",No,No
+2023-08-21,2023,8,Aug,2023-08,Q3,FY24,34,1,Mon,No,Monsoon,"",No,No
+2023-08-22,2023,8,Aug,2023-08,Q3,FY24,34,2,Tue,No,Monsoon,Onam,No,No
+2023-08-23,2023,8,Aug,2023-08,Q3,FY24,34,3,Wed,No,Monsoon,Onam,No,No
+2023-08-24,2023,8,Aug,2023-08,Q3,FY24,34,4,Thu,No,Monsoon,Onam,No,No
+2023-08-25,2023,8,Aug,2023-08,Q3,FY24,34,5,Fri,No,Monsoon,Onam,No,No
+2023-08-26,2023,8,Aug,2023-08,Q3,FY24,34,6,Sat,Yes,Monsoon,Onam,No,No
+2023-08-27,2023,8,Aug,2023-08,Q3,FY24,34,7,Sun,Yes,Monsoon,Onam,No,No
+2023-08-28,2023,8,Aug,2023-08,Q3,FY24,35,1,Mon,No,Monsoon,Onam,No,No
+2023-08-29,2023,8,Aug,2023-08,Q3,FY24,35,2,Tue,No,Monsoon,Onam,No,No
+2023-08-30,2023,8,Aug,2023-08,Q3,FY24,35,3,Wed,No,Monsoon,Raksha Bandhan,No,No
+2023-08-31,2023,8,Aug,2023-08,Q3,FY24,35,4,Thu,No,Monsoon,"",No,No
+2023-09-01,2023,9,Sep,2023-09,Q3,FY24,35,5,Fri,No,Monsoon,"",No,No
+2023-09-02,2023,9,Sep,2023-09,Q3,FY24,35,6,Sat,Yes,Monsoon,"",No,No
+2023-09-03,2023,9,Sep,2023-09,Q3,FY24,35,7,Sun,Yes,Monsoon,"",No,No
+2023-09-04,2023,9,Sep,2023-09,Q3,FY24,36,1,Mon,No,Monsoon,"",No,No
+2023-09-05,2023,9,Sep,2023-09,Q3,FY24,36,2,Tue,No,Monsoon,"",No,No
+2023-09-06,2023,9,Sep,2023-09,Q3,FY24,36,3,Wed,No,Monsoon,"",No,No
+2023-09-07,2023,9,Sep,2023-09,Q3,FY24,36,4,Thu,No,Monsoon,"",No,No
+2023-09-08,2023,9,Sep,2023-09,Q3,FY24,36,5,Fri,No,Monsoon,"",No,No
+2023-09-09,2023,9,Sep,2023-09,Q3,FY24,36,6,Sat,Yes,Monsoon,"",No,No
+2023-09-10,2023,9,Sep,2023-09,Q3,FY24,36,7,Sun,Yes,Monsoon,"",No,No
+2023-09-11,2023,9,Sep,2023-09,Q3,FY24,37,1,Mon,No,Monsoon,"",No,No
+2023-09-12,2023,9,Sep,2023-09,Q3,FY24,37,2,Tue,No,Monsoon,"",No,No
+2023-09-13,2023,9,Sep,2023-09,Q3,FY24,37,3,Wed,No,Monsoon,"",No,No
+2023-09-14,2023,9,Sep,2023-09,Q3,FY24,37,4,Thu,No,Monsoon,"",No,No
+2023-09-15,2023,9,Sep,2023-09,Q3,FY24,37,5,Fri,No,Monsoon,"",No,No
+2023-09-16,2023,9,Sep,2023-09,Q3,FY24,37,6,Sat,Yes,Monsoon,"",No,No
+2023-09-17,2023,9,Sep,2023-09,Q3,FY24,37,7,Sun,Yes,Monsoon,"",No,No
+2023-09-18,2023,9,Sep,2023-09,Q3,FY24,38,1,Mon,No,Monsoon,"",No,No
+2023-09-19,2023,9,Sep,2023-09,Q3,FY24,38,2,Tue,No,Monsoon,"",No,No
+2023-09-20,2023,9,Sep,2023-09,Q3,FY24,38,3,Wed,No,Monsoon,"",No,No
+2023-09-21,2023,9,Sep,2023-09,Q3,FY24,38,4,Thu,No,Monsoon,"",No,No
+2023-09-22,2023,9,Sep,2023-09,Q3,FY24,38,5,Fri,No,Monsoon,"",No,No
+2023-09-23,2023,9,Sep,2023-09,Q3,FY24,38,6,Sat,Yes,Monsoon,"",No,No
+2023-09-24,2023,9,Sep,2023-09,Q3,FY24,38,7,Sun,Yes,Monsoon,"",No,No
+2023-09-25,2023,9,Sep,2023-09,Q3,FY24,39,1,Mon,No,Monsoon,"",No,No
+2023-09-26,2023,9,Sep,2023-09,Q3,FY24,39,2,Tue,No,Monsoon,"",No,No
+2023-09-27,2023,9,Sep,2023-09,Q3,FY24,39,3,Wed,No,Monsoon,"",No,No
+2023-09-28,2023,9,Sep,2023-09,Q3,FY24,39,4,Thu,No,Monsoon,"",No,No
+2023-09-29,2023,9,Sep,2023-09,Q3,FY24,39,5,Fri,No,Monsoon,"",No,No
+2023-09-30,2023,9,Sep,2023-09,Q3,FY24,39,6,Sat,Yes,Monsoon,"",No,No
+2023-10-01,2023,10,Oct,2023-10,Q4,FY24,39,7,Sun,Yes,Festive (Oct-Nov),"",No,No
+2023-10-02,2023,10,Oct,2023-10,Q4,FY24,40,1,Mon,No,Festive (Oct-Nov),"",No,No
+2023-10-03,2023,10,Oct,2023-10,Q4,FY24,40,2,Tue,No,Festive (Oct-Nov),"",No,No
+2023-10-04,2023,10,Oct,2023-10,Q4,FY24,40,3,Wed,No,Festive (Oct-Nov),"",No,No
+2023-10-05,2023,10,Oct,2023-10,Q4,FY24,40,4,Thu,No,Festive (Oct-Nov),"",No,No
+2023-10-06,2023,10,Oct,2023-10,Q4,FY24,40,5,Fri,No,Festive (Oct-Nov),"",No,No
+2023-10-07,2023,10,Oct,2023-10,Q4,FY24,40,6,Sat,Yes,Festive (Oct-Nov),Navratri,No,No
+2023-10-08,2023,10,Oct,2023-10,Q4,FY24,40,7,Sun,Yes,Festive (Oct-Nov),Navratri,No,No
+2023-10-09,2023,10,Oct,2023-10,Q4,FY24,41,1,Mon,No,Festive (Oct-Nov),Durga Puja,No,No
+2023-10-10,2023,10,Oct,2023-10,Q4,FY24,41,2,Tue,No,Festive (Oct-Nov),Durga Puja,No,No
+2023-10-11,2023,10,Oct,2023-10,Q4,FY24,41,3,Wed,No,Festive (Oct-Nov),Durga Puja,No,No
+2023-10-12,2023,10,Oct,2023-10,Q4,FY24,41,4,Thu,No,Festive (Oct-Nov),Durga Puja,No,No
+2023-10-13,2023,10,Oct,2023-10,Q4,FY24,41,5,Fri,No,Festive (Oct-Nov),Durga Puja,No,No
+2023-10-14,2023,10,Oct,2023-10,Q4,FY24,41,6,Sat,Yes,Festive (Oct-Nov),Durga Puja,No,No
+2023-10-15,2023,10,Oct,2023-10,Q4,FY24,41,7,Sun,Yes,Festive (Oct-Nov),Durga Puja,No,No
+2023-10-16,2023,10,Oct,2023-10,Q4,FY24,42,1,Mon,No,Festive (Oct-Nov),Durga Puja,No,No
+2023-10-17,2023,10,Oct,2023-10,Q4,FY24,42,2,Tue,No,Festive (Oct-Nov),Durga Puja,No,No
+2023-10-18,2023,10,Oct,2023-10,Q4,FY24,42,3,Wed,No,Festive (Oct-Nov),Durga Puja,No,No
+2023-10-19,2023,10,Oct,2023-10,Q4,FY24,42,4,Thu,No,Festive (Oct-Nov),Durga Puja,No,No
+2023-10-20,2023,10,Oct,2023-10,Q4,FY24,42,5,Fri,No,Festive (Oct-Nov),Durga Puja,No,No
+2023-10-21,2023,10,Oct,2023-10,Q4,FY24,42,6,Sat,Yes,Festive (Oct-Nov),"",No,No
+2023-10-22,2023,10,Oct,2023-10,Q4,FY24,42,7,Sun,Yes,Festive (Oct-Nov),"",No,No
+2023-10-23,2023,10,Oct,2023-10,Q4,FY24,43,1,Mon,No,Festive (Oct-Nov),"",No,No
+2023-10-24,2023,10,Oct,2023-10,Q4,FY24,43,2,Tue,No,Festive (Oct-Nov),"",No,No
+2023-10-25,2023,10,Oct,2023-10,Q4,FY24,43,3,Wed,No,Festive (Oct-Nov),"",No,No
+2023-10-26,2023,10,Oct,2023-10,Q4,FY24,43,4,Thu,No,Festive (Oct-Nov),"",No,No
+2023-10-27,2023,10,Oct,2023-10,Q4,FY24,43,5,Fri,No,Festive (Oct-Nov),"",No,No
+2023-10-28,2023,10,Oct,2023-10,Q4,FY24,43,6,Sat,Yes,Festive (Oct-Nov),Diwali,No,No
+2023-10-29,2023,10,Oct,2023-10,Q4,FY24,43,7,Sun,Yes,Festive (Oct-Nov),Diwali,No,No
+2023-10-30,2023,10,Oct,2023-10,Q4,FY24,44,1,Mon,No,Festive (Oct-Nov),Diwali,No,No
+2023-10-31,2023,10,Oct,2023-10,Q4,FY24,44,2,Tue,No,Festive (Oct-Nov),Diwali,No,No
+2023-11-01,2023,11,Nov,2023-11,Q4,FY24,44,3,Wed,No,Festive (Oct-Nov),Diwali,No,No
+2023-11-02,2023,11,Nov,2023-11,Q4,FY24,44,4,Thu,No,Festive (Oct-Nov),Diwali,No,No
+2023-11-03,2023,11,Nov,2023-11,Q4,FY24,44,5,Fri,No,Festive (Oct-Nov),Diwali,No,No
+2023-11-04,2023,11,Nov,2023-11,Q4,FY24,44,6,Sat,Yes,Festive (Oct-Nov),Diwali,No,No
+2023-11-05,2023,11,Nov,2023-11,Q4,FY24,44,7,Sun,Yes,Festive (Oct-Nov),Diwali,No,No
+2023-11-06,2023,11,Nov,2023-11,Q4,FY24,45,1,Mon,No,Festive (Oct-Nov),Diwali,No,No
+2023-11-07,2023,11,Nov,2023-11,Q4,FY24,45,2,Tue,No,Festive (Oct-Nov),Diwali,No,No
+2023-11-08,2023,11,Nov,2023-11,Q4,FY24,45,3,Wed,No,Festive (Oct-Nov),Diwali,No,No
+2023-11-09,2023,11,Nov,2023-11,Q4,FY24,45,4,Thu,No,Festive (Oct-Nov),Diwali,No,No
+2023-11-10,2023,11,Nov,2023-11,Q4,FY24,45,5,Fri,No,Festive (Oct-Nov),Diwali,No,No
+2023-11-11,2023,11,Nov,2023-11,Q4,FY24,45,6,Sat,Yes,Festive (Oct-Nov),Diwali,No,No
+2023-11-12,2023,11,Nov,2023-11,Q4,FY24,45,7,Sun,Yes,Festive (Oct-Nov),Diwali,No,No
+2023-11-13,2023,11,Nov,2023-11,Q4,FY24,46,1,Mon,No,Festive (Oct-Nov),"",No,No
+2023-11-14,2023,11,Nov,2023-11,Q4,FY24,46,2,Tue,No,Festive (Oct-Nov),"",No,No
+2023-11-15,2023,11,Nov,2023-11,Q4,FY24,46,3,Wed,No,Festive (Oct-Nov),"",No,Yes
+2023-11-16,2023,11,Nov,2023-11,Q4,FY24,46,4,Thu,No,Festive (Oct-Nov),"",No,Yes
+2023-11-17,2023,11,Nov,2023-11,Q4,FY24,46,5,Fri,No,Festive (Oct-Nov),"",No,Yes
+2023-11-18,2023,11,Nov,2023-11,Q4,FY24,46,6,Sat,Yes,Festive (Oct-Nov),"",No,Yes
+2023-11-19,2023,11,Nov,2023-11,Q4,FY24,46,7,Sun,Yes,Festive (Oct-Nov),"",No,Yes
+2023-11-20,2023,11,Nov,2023-11,Q4,FY24,47,1,Mon,No,Festive (Oct-Nov),"",No,Yes
+2023-11-21,2023,11,Nov,2023-11,Q4,FY24,47,2,Tue,No,Festive (Oct-Nov),"",No,Yes
+2023-11-22,2023,11,Nov,2023-11,Q4,FY24,47,3,Wed,No,Festive (Oct-Nov),"",No,Yes
+2023-11-23,2023,11,Nov,2023-11,Q4,FY24,47,4,Thu,No,Festive (Oct-Nov),"",No,Yes
+2023-11-24,2023,11,Nov,2023-11,Q4,FY24,47,5,Fri,No,Festive (Oct-Nov),"",No,Yes
+2023-11-25,2023,11,Nov,2023-11,Q4,FY24,47,6,Sat,Yes,Festive (Oct-Nov),"",No,Yes
+2023-11-26,2023,11,Nov,2023-11,Q4,FY24,47,7,Sun,Yes,Festive (Oct-Nov),"",No,Yes
+2023-11-27,2023,11,Nov,2023-11,Q4,FY24,48,1,Mon,No,Festive (Oct-Nov),"",No,Yes
+2023-11-28,2023,11,Nov,2023-11,Q4,FY24,48,2,Tue,No,Festive (Oct-Nov),"",No,Yes
+2023-11-29,2023,11,Nov,2023-11,Q4,FY24,48,3,Wed,No,Festive (Oct-Nov),"",No,Yes
+2023-11-30,2023,11,Nov,2023-11,Q4,FY24,48,4,Thu,No,Festive (Oct-Nov),"",No,Yes
+2023-12-01,2023,12,Dec,2023-12,Q4,FY24,48,5,Fri,No,Winter,"",No,Yes
+2023-12-02,2023,12,Dec,2023-12,Q4,FY24,48,6,Sat,Yes,Winter,"",No,Yes
+2023-12-03,2023,12,Dec,2023-12,Q4,FY24,48,7,Sun,Yes,Winter,"",No,Yes
+2023-12-04,2023,12,Dec,2023-12,Q4,FY24,49,1,Mon,No,Winter,"",No,Yes
+2023-12-05,2023,12,Dec,2023-12,Q4,FY24,49,2,Tue,No,Winter,"",No,Yes
+2023-12-06,2023,12,Dec,2023-12,Q4,FY24,49,3,Wed,No,Winter,"",No,Yes
+2023-12-07,2023,12,Dec,2023-12,Q4,FY24,49,4,Thu,No,Winter,"",No,Yes
+2023-12-08,2023,12,Dec,2023-12,Q4,FY24,49,5,Fri,No,Winter,"",No,Yes
+2023-12-09,2023,12,Dec,2023-12,Q4,FY24,49,6,Sat,Yes,Winter,"",No,Yes
+2023-12-10,2023,12,Dec,2023-12,Q4,FY24,49,7,Sun,Yes,Winter,"",No,Yes
+2023-12-11,2023,12,Dec,2023-12,Q4,FY24,50,1,Mon,No,Winter,"",No,Yes
+2023-12-12,2023,12,Dec,2023-12,Q4,FY24,50,2,Tue,No,Winter,"",No,Yes
+2023-12-13,2023,12,Dec,2023-12,Q4,FY24,50,3,Wed,No,Winter,"",No,Yes
+2023-12-14,2023,12,Dec,2023-12,Q4,FY24,50,4,Thu,No,Winter,"",No,Yes
+2023-12-15,2023,12,Dec,2023-12,Q4,FY24,50,5,Fri,No,Winter,"",No,Yes
+2023-12-16,2023,12,Dec,2023-12,Q4,FY24,50,6,Sat,Yes,Winter,"",No,No
+2023-12-17,2023,12,Dec,2023-12,Q4,FY24,50,7,Sun,Yes,Winter,"",No,No
+2023-12-18,2023,12,Dec,2023-12,Q4,FY24,51,1,Mon,No,Winter,"",No,No
+2023-12-19,2023,12,Dec,2023-12,Q4,FY24,51,2,Tue,No,Winter,"",No,No
+2023-12-20,2023,12,Dec,2023-12,Q4,FY24,51,3,Wed,No,Winter,"",No,No
+2023-12-21,2023,12,Dec,2023-12,Q4,FY24,51,4,Thu,No,Winter,"",No,No
+2023-12-22,2023,12,Dec,2023-12,Q4,FY24,51,5,Fri,No,Winter,"",No,No
+2023-12-23,2023,12,Dec,2023-12,Q4,FY24,51,6,Sat,Yes,Winter,"",No,No
+2023-12-24,2023,12,Dec,2023-12,Q4,FY24,51,7,Sun,Yes,Winter,"",No,No
+2023-12-25,2023,12,Dec,2023-12,Q4,FY24,52,1,Mon,No,Winter,"",No,No
+2023-12-26,2023,12,Dec,2023-12,Q4,FY24,52,2,Tue,No,Winter,"",No,No
+2023-12-27,2023,12,Dec,2023-12,Q4,FY24,52,3,Wed,No,Winter,"",No,No
+2023-12-28,2023,12,Dec,2023-12,Q4,FY24,52,4,Thu,No,Winter,"",No,No
+2023-12-29,2023,12,Dec,2023-12,Q4,FY24,52,5,Fri,No,Winter,"",No,No
+2023-12-30,2023,12,Dec,2023-12,Q4,FY24,52,6,Sat,Yes,Winter,"",No,No
+2023-12-31,2023,12,Dec,2023-12,Q4,FY24,52,7,Sun,Yes,Winter,"",No,No

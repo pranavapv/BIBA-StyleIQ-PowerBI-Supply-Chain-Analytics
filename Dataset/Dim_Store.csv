@@ -1,0 +1,25 @@
+store_id,store_name,city,state,region,store_type
+S01,New Delhi Flagship 1,New Delhi,Delhi,North,Flagship
+S02,New Delhi Mall 2,New Delhi,Delhi,North,Mall
+S03,Gurugram Mall 1,Gurugram,Haryana,North,Mall
+S04,Lucknow Mall 1,Lucknow,Uttar Pradesh,North,Mall
+S05,Chandigarh Shop-in-Shop 1,Chandigarh,Chandigarh,North,Shop-in-Shop
+S06,Jaipur Mall 1,Jaipur,Rajasthan,North,Mall
+S07,Mumbai Flagship 1,Mumbai,Maharashtra,West,Flagship
+S08,Mumbai Mall 2,Mumbai,Maharashtra,West,Mall
+S09,Pune Mall 1,Pune,Maharashtra,West,Mall
+S10,Ahmedabad Shop-in-Shop 1,Ahmedabad,Gujarat,West,Shop-in-Shop
+S11,Bengaluru Flagship 1,Bengaluru,Karnataka,South,Flagship
+S12,Bengaluru Shop-in-Shop 2,Bengaluru,Karnataka,South,Shop-in-Shop
+S13,Chennai Mall 1,Chennai,Tamil Nadu,South,Mall
+S14,Hyderabad Mall 1,Hyderabad,Telangana,South,Mall
+S15,Kochi Shop-in-Shop 1,Kochi,Kerala,South,Shop-in-Shop
+S16,Kolkata Flagship 1,Kolkata,West Bengal,East,Flagship
+S17,Kolkata Shop-in-Shop 2,Kolkata,West Bengal,East,Shop-in-Shop
+S18,Bhubaneswar Mall 1,Bhubaneswar,Odisha,East,Mall
+S19,Guwahati Shop-in-Shop 1,Guwahati,Assam,East,Shop-in-Shop
+S20,Indore Mall 1,Indore,Madhya Pradesh,Central,Mall
+S21,Bhopal Shop-in-Shop 1,Bhopal,Madhya Pradesh,Central,Shop-in-Shop
+S22,Nagpur Mall 1,Nagpur,Maharashtra,Central,Mall
+S23,Raipur Shop-in-Shop 1,Raipur,Chhattisgarh,Central,Shop-in-Shop
+S24,Online Store,Online,Pan India,Online,Online

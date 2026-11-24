@@ -1,0 +1,61 @@
+product_id,product_name,category,collection,fabric,mrp_inr,unit_cost_inr,supplier_id,launch_date
+P001,Teal Bandhani Chikankari Cotton Kurta,Kurta,Everyday,Chikankari Cotton,1799,693.37,SUP01,2022-01-01
+P002,Lilac Leheriya Chikankari Cotton Kurta,Kurta,Everyday,Chikankari Cotton,1799,780.34,SUP01,2022-01-01
+P003,Emerald Block-Print Linen Kurta,Kurta,Everyday,Linen,1499,607.94,SUP01,2022-01-01
+P004,Ivory Kalamkari Linen Kurta,Kurta,Everyday,Linen,1099,427.69,SUP02,2022-01-01
+P005,Ivory Zari Linen Kurta,Kurta,Everyday,Linen,1099,398.04,SUP02,2022-01-01
+P006,Wine Solid Chikankari Cotton Kurta,Kurta,Everyday,Chikankari Cotton,1299,532.77,SUP01,2023-03-01
+P007,Mustard Ikat Chikankari Cotton Kurta,Kurta,Festive,Chikankari Cotton,2499,978.67,SUP01,2022-01-01
+P008,Olive Kalamkari Chikankari Cotton Kurta,Kurta,Festive,Chikankari Cotton,2499,1033.42,SUP05,2022-01-01
+P009,Indigo Embroidered Linen Kurta,Kurta,Festive,Linen,1999,728.66,SUP01,2022-01-01
+P010,Olive Leheriya Cotton Kurta,Kurta,Festive,Cotton,2499,962.1,SUP02,2023-09-01
+P011,Peach Block-Print Cotton Kurta,Kurta,Wedding,Cotton,2499,904.95,SUP05,2022-01-01
+P012,Emerald Embroidered Rayon Kurta,Kurta,Wedding,Rayon,2499,980.16,SUP02,2022-01-01
+P013,Navy Mirror-Work Rayon Palazzo Set,Palazzo Set,Everyday,Rayon,2799,1168.26,SUP02,2022-01-01
+P014,Maroon Gota Georgette Palazzo Set,Palazzo Set,Everyday,Georgette,3499,1333.53,SUP01,2022-01-01
+P015,Lilac Mirror-Work Crepe Palazzo Set,Palazzo Set,Everyday,Crepe,1499,593.32,SUP01,2022-01-01
+P016,Emerald Paisley Georgette Palazzo Set,Palazzo Set,Everyday,Georgette,1999,809.65,SUP03,2022-01-01
+P017,Lilac Embroidered Rayon Palazzo Set,Palazzo Set,Everyday,Rayon,3499,1439.11,SUP03,2022-01-01
+P018,Wine Paisley Cotton Palazzo Set,Palazzo Set,Everyday,Cotton,1499,618.16,SUP02,2023-03-01
+P019,Emerald Leheriya Rayon Palazzo Set,Palazzo Set,Festive,Rayon,2799,1215.83,SUP01,2022-01-01
+P020,Indigo Ikat Rayon Palazzo Set,Palazzo Set,Festive,Rayon,3499,1401.18,SUP02,2022-01-01
+P021,Indigo Zari Rayon Palazzo Set,Palazzo Set,Festive,Rayon,2799,1055.61,SUP03,2022-01-01
+P022,Peach Paisley Crepe Palazzo Set,Palazzo Set,Festive,Crepe,3499,1356.51,SUP03,2023-09-01
+P023,Rani Pink Paisley Crepe Palazzo Set,Palazzo Set,Wedding,Crepe,2799,1113.94,SUP03,2022-01-01
+P024,Saffron Paisley Georgette Palazzo Set,Palazzo Set,Wedding,Georgette,2799,1034.66,SUP03,2022-01-01
+P025,Wine Leheriya Woollen Salwar Suit,Salwar Suit,Everyday,Woollen,4999,2106.29,SUP07,2022-01-01
+P026,Mustard Leheriya Woollen Salwar Suit,Salwar Suit,Everyday,Woollen,3999,1708.21,SUP04,2022-01-01
+P027,Mustard Floral Cotton Salwar Suit,Salwar Suit,Everyday,Cotton,2499,1074.16,SUP01,2022-01-01
+P028,Lilac Mirror-Work Chanderi Salwar Suit,Salwar Suit,Everyday,Chanderi,3999,1667.0,SUP01,2022-01-01
+P029,Ivory Leheriya Silk Blend Salwar Suit,Salwar Suit,Everyday,Silk Blend,2499,987.54,SUP04,2022-01-01
+P030,Navy Solid Cotton Salwar Suit,Salwar Suit,Everyday,Cotton,2999,1280.78,SUP07,2023-03-01
+P031,Rani Pink Solid Chanderi Salwar Suit,Salwar Suit,Festive,Chanderi,4999,1810.3,SUP01,2022-01-01
+P032,Navy Solid Cotton Salwar Suit,Salwar Suit,Festive,Cotton,3999,1602.54,SUP01,2022-01-01
+P033,Ivory Ikat Cotton Salwar Suit,Salwar Suit,Festive,Cotton,3999,1608.9,SUP01,2022-01-01
+P034,Rani Pink Paisley Chanderi Salwar Suit,Salwar Suit,Festive,Chanderi,3999,1495.69,SUP04,2023-09-01
+P035,Ivory Floral Chanderi Salwar Suit,Salwar Suit,Wedding,Chanderi,4999,1927.46,SUP04,2022-01-01
+P036,Emerald Solid Woollen Salwar Suit,Salwar Suit,Wedding,Woollen,4999,1864.4,SUP07,2022-01-01
+P037,Teal Bandhani Georgette Anarkali,Anarkali,Everyday,Georgette,2499,1093.5,SUP07,2022-01-01
+P038,Olive Paisley Chanderi Anarkali,Anarkali,Everyday,Chanderi,3999,1736.1,SUP07,2022-01-01
+P039,Maroon Embroidered Silk Blend Anarkali,Anarkali,Everyday,Silk Blend,3499,1390.53,SUP05,2022-01-01
+P040,Olive Leheriya Silk Blend Anarkali,Anarkali,Everyday,Silk Blend,5999,2309.97,SUP05,2022-01-01
+P041,Teal Block-Print Silk Blend Anarkali,Anarkali,Everyday,Silk Blend,4999,1874.69,SUP07,2022-01-01
+P042,Ivory Zari Net Anarkali,Anarkali,Everyday,Net,2999,1123.81,SUP07,2023-03-01
+P043,Olive Paisley Georgette Anarkali,Anarkali,Festive,Georgette,4999,1933.89,SUP03,2022-01-01
+P044,Olive Ikat Georgette Anarkali,Anarkali,Festive,Georgette,5999,2331.7,SUP05,2022-01-01
+P045,Indigo Block-Print Chanderi Anarkali,Anarkali,Festive,Chanderi,5999,2181.53,SUP07,2022-01-01
+P046,Wine Mirror-Work Silk Blend Anarkali,Anarkali,Festive,Silk Blend,4999,2180.09,SUP07,2023-09-01
+P047,Mustard Zari Chanderi Anarkali,Anarkali,Wedding,Chanderi,5999,2182.23,SUP03,2022-01-01
+P048,Ivory Paisley Chanderi Anarkali,Anarkali,Wedding,Chanderi,4999,1953.08,SUP05,2022-01-01
+P049,Mustard Zari Brocade Lehenga,Lehenga,Wedding,Brocade,5999,2316.79,SUP08,2022-01-01
+P050,Ivory Bandhani Silk Lehenga,Lehenga,Wedding,Silk,5999,2270.46,SUP08,2022-01-01
+P051,Peach Leheriya Silk Lehenga,Lehenga,Wedding,Silk,9999,4042.94,SUP08,2022-01-01
+P052,Coral Leheriya Brocade Lehenga,Lehenga,Wedding,Brocade,9999,4197.98,SUP06,2022-01-01
+P053,Olive Bandhani Velvet Lehenga,Lehenga,Wedding,Velvet,11999,4479.78,SUP06,2022-01-01
+P054,Teal Zari Silk Lehenga,Lehenga,Wedding,Silk,7999,3509.01,SUP06,2023-03-01
+P055,Coral Kalamkari Net Lehenga,Lehenga,Wedding,Net,5999,2243.51,SUP08,2022-01-01
+P056,Wine Bandhani Velvet Lehenga,Lehenga,Festive,Velvet,14999,5791.69,SUP06,2022-01-01
+P057,Saffron Floral Silk Lehenga,Lehenga,Festive,Silk,5999,2270.06,SUP08,2022-01-01
+P058,Peach Paisley Silk Lehenga,Lehenga,Festive,Silk,7999,3455.51,SUP06,2023-09-01
+P059,Wine Floral Silk Lehenga,Lehenga,Festive,Silk,14999,5585.21,SUP06,2022-01-01
+P060,Lilac Embroidered Velvet Lehenga,Lehenga,Festive,Velvet,7999,3216.66,SUP06,2022-01-01

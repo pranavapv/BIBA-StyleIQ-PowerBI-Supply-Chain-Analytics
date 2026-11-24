@@ -1,0 +1,9 @@
+supplier_id,supplier_name,city,state,specialisation,contracted_lead_time_days
+SUP01,Supplier 01 - Jaipur,Jaipur,Rajasthan,Block-print cotton,21
+SUP02,Supplier 02 - Tiruppur,Tiruppur,Tamil Nadu,Knits & everyday cotton,18
+SUP03,Supplier 03 - Surat,Surat,Gujarat,Synthetic & georgette,20
+SUP04,Supplier 04 - Ludhiana,Ludhiana,Punjab,Salwar suits & winterwear,24
+SUP05,Supplier 05 - Lucknow,Lucknow,Uttar Pradesh,Chikankari embroidery,30
+SUP06,Supplier 06 - Varanasi,Varanasi,Uttar Pradesh,Silk & brocade,35
+SUP07,Supplier 07 - Kolkata,Kolkata,West Bengal,Handloom & festive,28
+SUP08,Supplier 08 - Delhi NCR,Noida,Uttar Pradesh,Bridal & heavy embroidery,40
